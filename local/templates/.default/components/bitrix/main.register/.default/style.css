@@ -1,0 +1,108 @@
+.registration-type{
+	margin-bottom: 45px;
+	padding: 0;
+	text-align: center;
+	margin-right: 200px;
+}
+.registration-type__item{
+	position: absolute;
+	opacity: 0;
+	z-index: -1;
+}
+.registration-type__item + label{
+	position: relative;
+	display: inline-block;
+	margin-right: 10px;
+	width: 350px;
+	color: #212121;
+	font-size: 18px;
+	line-height: 64px;
+	font-weight: bold;
+	text-transform: uppercase;
+	background: #e7e7e7;
+	cursor: pointer;
+}
+.registration-type__item:checked + label{
+	color: #fff;
+	background: #212121;
+}
+.registration-type__item:checked + label:after{
+	content: "";
+	position: absolute;
+	top: 60px;
+	left: 50%;
+	margin-left: -16px;
+	border-width: 16px;
+	border-style: solid;
+	border-color: #212121 transparent transparent transparent;
+}
+
+.registration-block{
+	float: left;
+	width: 490px;
+}
+.registration-block_first{
+	margin-right: 20px;
+}
+
+.company-details-type{
+	margin: 0 0 10px;
+	padding: 0;
+	list-style: none;
+	height: 40px;
+}
+.company-details-type__item{
+	position: relative;
+	float: right;
+	width: 240px;
+	color: #212121;
+	font-size: 14px;
+	line-height: 40px;
+	font-weight: bold;
+	text-align: center;
+	text-transform: uppercase;
+	background: #e7e7e7;
+	cursor: pointer;
+}
+.company-details-type__item:first-child{
+	float: left;
+}
+.company-details-type__item_active{
+	color: #fff;
+	background: #212121;
+}
+.company-details-type__item_active:after{
+	content: "";
+	position: absolute;
+	top: 39px;
+	left: 50%;
+	margin-left: -8px;
+	border-width: 8px;
+	border-style: solid;
+	border-color: #212121 transparent transparent transparent;
+}
+
+.agreement-button{
+	color: #e5111b;
+}
+.popup.popup_agreement{
+	margin-left: -390px;
+	width: 700px;
+}
+
+.form__submit {
+    float: right;
+    padding: 0 20px;
+    height: 40px;
+    color: #fff;
+    line-height: 40px;
+    text-decoration: none;
+    text-transform: uppercase;
+    border: none;
+    background: #00B967;
+    margin: 25px 0 0;
+}
+
+.form__submit:hover {
+	  background: #FB1A19;
+}

@@ -1,0 +1,22 @@
+.bx-breadcrumb i {
+	color: #000;
+	font-size: 14px;
+	vertical-align: middle;
+	margin: 0 4px;
+	font-style: normal;
+}
+.bx-breadcrumb .bx-breadcrumb-item {
+	float: left;
+	margin-bottom: 10px;
+	white-space: nowrap;
+	line-height: 5px;
+	vertical-align: middle;
+	line-height: 40px;
+	font-size: 14px;
+}
+.bx-breadcrumb .bx-breadcrumb-item span {
+	color: #28b86c;
+}
+
+.bx-breadcrumb .bx-breadcrumb-item a {text-decoration: none;}
+.bx-breadcrumb .bx-breadcrumb-item a span{border-bottom: none; color: #000; }

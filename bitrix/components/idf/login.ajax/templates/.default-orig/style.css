@@ -1,0 +1,117 @@
+
+.b-container{
+    width:200px;
+    height:150px;
+    background-color: #ccc;
+    margin:0px auto;
+    padding:10px;
+    font-size:30px;
+    color: #fff;
+}
+.b-popup_login{
+    width:100%;
+    min-height:100%;
+    background-color: rgba(0,0,0,0.5);
+    overflow:hidden;
+    position:fixed;
+    top:0px;
+    z-index: 9999;
+    left: 0px;
+}
+.b-popup_login .b-popup-content_login{
+    margin:40px auto 0px auto;
+    width: 350px;
+    height: 270px;
+    padding:10px;
+    background-color: white;
+    border-radius:5px;
+    box-shadow: 0px 0px 10px #000;
+}
+
+.b-popup_login .pop_pic{
+    display: inline-block;
+    float: right;
+    margin-top: 7px;
+    margin-right: -5px;
+}
+
+.b-popup_login .pop_pic img{
+    height: 30px;
+}
+
+.b-popup_login .pop_element{
+    height: 60px;
+    font-size: 16px;
+}
+
+.b-popup_login .pop_title{
+    text-align: center;
+    padding-top: 10px;
+}
+
+.b-popup_login .pop_title h1{
+    font-size: 23px;
+}
+
+.b-popup_login .pop_element input{
+    padding: 5px;
+    width: 150px;
+}
+
+.b-popup_login .pop_element select{
+    font-size: 16px;
+}
+
+.b-popup_login .pop_element span{
+    width: 140px;
+    display: inline-block;
+}
+
+.b-popup_login .pop_content{
+    margin-top: 15px;
+}
+
+.b-popup_login .pop_button{
+ cursor: pointer;   
+ text-decoration:none; 
+ text-align:center; 
+ padding:5px 27px; 
+ border:solid 1px #004F72; 
+ -webkit-border-radius:34px;
+ -moz-border-radius:34px; 
+ border-radius: 34px; 
+ font:18px Arial, Helvetica, sans-serif; 
+ font-weight:bold; 
+ color:#E5FFFF; 
+ background:#bb2035; 
+ -webkit-box-shadow:0px 0px 2px #bababa, inset 0px 0px 1px #ffffff; 
+ -moz-box-shadow: 0px 0px 2px #bababa,  inset 0px 0px 1px #ffffff;  
+ box-shadow:0px 0px 2px #bababa, inset 0px 0px 1px #ffffff;  
+  
+  }
+
+.b-popup_login .pop_wrap_button{
+    text-align: center;
+    margin-top: 10px;
+}
+
+.b-popup_login label.error {
+    color: red;
+    font-style: italic;
+    margin-left: 5px;
+    font-size: 12px;
+    /*position: absolute;*/
+    padding-top: 6px;
+}
+ 
+.b-popup_login input.error {
+  border: 1px dotted red;
+}
+
+.b-popup_login .result{
+    font-size: 14px;
+    text-align: center;
+    color: green;
+}
+
+

@@ -1,0 +1,7 @@
+<?
+if($INCLUDE_FROM_CACHE!='Y')return false;
+$datecreate = '001669093703';
+$dateexpire = '001669097303';
+$ser_content = 'a:2:{s:7:"CONTENT";s:0:"";s:4:"VARS";a:2:{i:14508;a:14:{s:2:"ID";s:5:"14508";s:11:"TIMESTAMP_X";O:25:"Bitrix\\Main\\Type\\DateTime":1:{s:8:"'.chr(0).'*'.chr(0).'value";O:8:"DateTime":3:{s:4:"date";s:26:"2018-12-13 00:09:56.000000";s:13:"timezone_type";i:3;s:8:"timezone";s:13:"Europe/Moscow";}}s:9:"MODULE_ID";s:6:"iblock";s:6:"HEIGHT";s:2:"93";s:5:"WIDTH";s:2:"93";s:9:"FILE_SIZE";s:5:"23886";s:12:"CONTENT_TYPE";s:10:"image/jpeg";s:6:"SUBDIR";s:10:"iblock/876";s:9:"FILE_NAME";s:36:"8767256ffc9201f62a427f5a7ce4ca6d.jpg";s:13:"ORIGINAL_NAME";s:11:"mahovik.jpg";s:11:"DESCRIPTION";s:0:"";s:10:"HANDLER_ID";N;s:11:"EXTERNAL_ID";s:32:"1818a2d5d9e7089d801bf3d4fd569cfb";s:4:"~src";b:0;}i:14509;a:14:{s:2:"ID";s:5:"14509";s:11:"TIMESTAMP_X";O:25:"Bitrix\\Main\\Type\\DateTime":1:{s:8:"'.chr(0).'*'.chr(0).'value";O:8:"DateTime":3:{s:4:"date";s:26:"2022-08-23 13:35:47.000000";s:13:"timezone_type";i:3;s:8:"timezone";s:13:"Europe/Moscow";}}s:9:"MODULE_ID";s:6:"iblock";s:6:"HEIGHT";s:3:"423";s:5:"WIDTH";s:3:"500";s:9:"FILE_SIZE";s:5:"32456";s:12:"CONTENT_TYPE";s:10:"image/jpeg";s:6:"SUBDIR";s:10:"iblock/95c";s:9:"FILE_NAME";s:36:"95c13d3793e5e5bb7041760d30279956.jpg";s:13:"ORIGINAL_NAME";s:10:"ggd-52.jpg";s:11:"DESCRIPTION";s:0:"";s:10:"HANDLER_ID";N;s:11:"EXTERNAL_ID";s:32:"fcdca5c01c12c76f57b61714b35b5319";s:4:"~src";b:0;}}}';
+return true;
+?>

@@ -1,0 +1,7 @@
+<?
+if($INCLUDE_FROM_CACHE!='Y')return false;
+$datecreate = '001668694819';
+$dateexpire = '001668698419';
+$ser_content = 'a:2:{s:7:"CONTENT";s:0:"";s:4:"VARS";a:2:{i:18768;a:14:{s:2:"ID";s:5:"18768";s:11:"TIMESTAMP_X";O:25:"Bitrix\\Main\\Type\\DateTime":1:{s:8:"'.chr(0).'*'.chr(0).'value";O:8:"DateTime":3:{s:4:"date";s:26:"2019-11-21 12:19:03.000000";s:13:"timezone_type";i:3;s:8:"timezone";s:13:"Europe/Moscow";}}s:9:"MODULE_ID";s:6:"iblock";s:6:"HEIGHT";s:3:"465";s:5:"WIDTH";s:3:"709";s:9:"FILE_SIZE";s:6:"301600";s:12:"CONTENT_TYPE";s:9:"image/png";s:6:"SUBDIR";s:10:"iblock/46b";s:9:"FILE_NAME";s:36:"46bfa57edd20ba5260294c5a68ee84b0.png";s:13:"ORIGINAL_NAME";s:30:"akciya-vsya_tehnika-noyabr.png";s:11:"DESCRIPTION";s:0:"";s:10:"HANDLER_ID";N;s:11:"EXTERNAL_ID";s:32:"779dd87c8542bed82b7ca078bce3993d";s:4:"~src";b:0;}i:18769;a:14:{s:2:"ID";s:5:"18769";s:11:"TIMESTAMP_X";O:25:"Bitrix\\Main\\Type\\DateTime":1:{s:8:"'.chr(0).'*'.chr(0).'value";O:8:"DateTime":3:{s:4:"date";s:26:"2019-11-21 12:04:32.000000";s:13:"timezone_type";i:3;s:8:"timezone";s:13:"Europe/Moscow";}}s:9:"MODULE_ID";s:6:"iblock";s:6:"HEIGHT";s:3:"302";s:5:"WIDTH";s:4:"1110";s:9:"FILE_SIZE";s:6:"566789";s:12:"CONTENT_TYPE";s:9:"image/png";s:6:"SUBDIR";s:10:"iblock/75b";s:9:"FILE_NAME";s:36:"75b370147302d47e5708270e4bf64cf2.png";s:13:"ORIGINAL_NAME";s:30:"banner-vsya_tehnika-noyabr.png";s:11:"DESCRIPTION";s:0:"";s:10:"HANDLER_ID";N;s:11:"EXTERNAL_ID";s:32:"ee0f86e991aa2af72f2a1b0105d3079c";s:4:"~src";b:0;}}}';
+return true;
+?>

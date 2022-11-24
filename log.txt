@@ -1,0 +1,1766 @@
+Host: www.usatba-texno.ru
+Date: 2018-02-15 13:30:52
+Module: 
+array (
+  'PAY_SYSTEM_ID' => '1',
+  'PAYED' => 'N',
+  'DATE_PAYED' => NULL,
+  'EMP_PAYED_ID' => NULL,
+  'PS_STATUS' => NULL,
+  'PS_STATUS_CODE' => NULL,
+  'PS_STATUS_DESCRIPTION' => NULL,
+  'PS_STATUS_MESSAGE' => NULL,
+  'PS_SUM' => '0',
+  'PS_CURRENCY' => NULL,
+  'PS_RESPONSE_DATE' => NULL,
+  'DELIVERY_ID' => 'new11:profile',
+  'PRICE_DELIVERY' => '0',
+  'ALLOW_DELIVERY' => 'N',
+  'DATE_ALLOW_DELIVERY' => NULL,
+  'EMP_ALLOW_DELIVERY_ID' => NULL,
+  'DATE_DEDUCTED' => NULL,
+  'EMP_DEDUCTED_ID' => NULL,
+  'REASON_UNDO_DEDUCTED' => NULL,
+  'TRACKING_NUMBER' => NULL,
+  'DELIVERY_DOC_NUM' => NULL,
+  'DELIVERY_DOC_DATE' => NULL,
+  'ID' => '183',
+  'LID' => 's1',
+  'ACCOUNT_NUMBER' => '183',
+  'DATE_INSERT' => '2018-02-15 13:30:52',
+  'DATE_UPDATE' => '2018-02-15 13:30:52',
+  'PERSON_TYPE_ID' => '1',
+  'USER_ID' => '117',
+  'DEDUCTED' => 'N',
+  'STATUS_ID' => 'N',
+  'DATE_STATUS' => '2018-02-15 13:30:52',
+  'EMP_STATUS_ID' => '117',
+  'MARKED' => 'N',
+  'DATE_MARKED' => NULL,
+  'EMP_MARKED_ID' => NULL,
+  'REASON_MARKED' => NULL,
+  'RESERVED' => 'N',
+  'PRICE' => '0',
+  'CURRENCY' => 'RUB',
+  'DISCOUNT_VALUE' => '0',
+  'TAX_VALUE' => '0.00',
+  'SUM_PAID' => '0.00',
+  'USER_DESCRIPTION' => 'тест',
+  'PAY_VOUCHER_NUM' => NULL,
+  'PAY_VOUCHER_DATE' => NULL,
+  'ADDITIONAL_INFO' => NULL,
+  'COMMENTS' => NULL,
+  'CREATED_BY' => '117',
+  'RESPONSIBLE_ID' => NULL,
+  'STAT_GID' => NULL,
+  'DATE_PAY_BEFORE' => NULL,
+  'DATE_BILL' => NULL,
+  'RECURRING_ID' => NULL,
+  'LOCKED_BY' => NULL,
+  'DATE_LOCK' => NULL,
+  'RECOUNT_FLAG' => 'Y',
+  'AFFILIATE_ID' => NULL,
+  'UPDATED_1C' => 'N',
+  'ORDER_TOPIC' => NULL,
+  'XML_ID' => NULL,
+  'ID_1C' => NULL,
+  'VERSION_1C' => NULL,
+  'VERSION' => '1',
+  'EXTERNAL_ORDER' => 'N',
+  'STORE_ID' => NULL,
+  'CANCELED' => 'N',
+  'EMP_CANCELED_ID' => NULL,
+  'DATE_CANCELED' => NULL,
+  'REASON_CANCELED' => NULL,
+  'BX_USER_ID' => NULL,
+  'DATE_INSERT_FORMAT' => '15.02.2018',
+  'DATE_UPDATE_SHORT' => '2018-02-15 00:00:00',
+  'DATE_STATUS_SHORT' => '2018-02-15 00:00:00',
+  'DATE_CANCELED_SHORT' => NULL,
+  'BY_RECOMMENDATION' => NULL,
+  'LOCK_STATUS' => 'green',
+  'LOCK_USER_NAME' => NULL,
+  'RESPONSIBLE_LOGIN' => NULL,
+  'RESPONSIBLE_NAME' => NULL,
+  'RESPONSIBLE_LAST_NAME' => NULL,
+  'RESPONSIBLE_SECOND_NAME' => NULL,
+  'RESPONSIBLE_EMAIL' => NULL,
+  'RESPONSIBLE_WORK_POSITION' => NULL,
+  'RESPONSIBLE_PERSONAL_PHOTO' => NULL,
+  'USER_LOGIN' => 'dev@dialweb.ru',
+  'USER_NAME' => 'Admin',
+  'USER_LAST_NAME' => 'Admin',
+  'USER_EMAIL' => 'dev@dialweb.ru',
+  'DATE_UPDATE_FORMAT' => '15.02.2018 13:30:52',
+  'DATE_STATUS_FORMAT' => '15.02.2018 13:30:52',
+)
+    bxModifySaleMails < call_user_func_array < ExecuteModuleEventEx < Bitrix\Sale\Notify::sendOrderNew < Bitrix\Sale\Compatible\EventCompatibility::onOrderNewSendEmail
+	/var/www/u0128361/data/www/usatba-texno.ru/bitrix/modules/main/classes/general/module.php:475
+	/var/www/u0128361/data/www/usatba-texno.ru/bitrix/modules/sale/lib/notify.php:117
+	/var/www/u0128361/data/www/usatba-texno.ru/bitrix/modules/sale/lib/compatible/eventcompatibility.php:250
+----------
+Host: www.usatba-texno.ru
+Date: 2018-02-15 13:38:54
+Module: 
+array (
+  'PAY_SYSTEM_ID' => '1',
+  'PAYED' => 'N',
+  'DATE_PAYED' => NULL,
+  'EMP_PAYED_ID' => NULL,
+  'PS_STATUS' => NULL,
+  'PS_STATUS_CODE' => NULL,
+  'PS_STATUS_DESCRIPTION' => NULL,
+  'PS_STATUS_MESSAGE' => NULL,
+  'PS_SUM' => '0',
+  'PS_CURRENCY' => NULL,
+  'PS_RESPONSE_DATE' => NULL,
+  'DELIVERY_ID' => 'new11:profile',
+  'PRICE_DELIVERY' => '0',
+  'ALLOW_DELIVERY' => 'N',
+  'DATE_ALLOW_DELIVERY' => NULL,
+  'EMP_ALLOW_DELIVERY_ID' => NULL,
+  'DATE_DEDUCTED' => NULL,
+  'EMP_DEDUCTED_ID' => NULL,
+  'REASON_UNDO_DEDUCTED' => NULL,
+  'TRACKING_NUMBER' => NULL,
+  'DELIVERY_DOC_NUM' => NULL,
+  'DELIVERY_DOC_DATE' => NULL,
+  'ID' => '184',
+  'LID' => 's1',
+  'ACCOUNT_NUMBER' => '184',
+  'DATE_INSERT' => '2018-02-15 13:38:54',
+  'DATE_UPDATE' => '2018-02-15 13:38:54',
+  'PERSON_TYPE_ID' => '1',
+  'USER_ID' => '117',
+  'DEDUCTED' => 'N',
+  'STATUS_ID' => 'N',
+  'DATE_STATUS' => '2018-02-15 13:38:54',
+  'EMP_STATUS_ID' => '117',
+  'MARKED' => 'N',
+  'DATE_MARKED' => NULL,
+  'EMP_MARKED_ID' => NULL,
+  'REASON_MARKED' => NULL,
+  'RESERVED' => 'N',
+  'PRICE' => '0',
+  'CURRENCY' => 'RUB',
+  'DISCOUNT_VALUE' => '0',
+  'TAX_VALUE' => '0.00',
+  'SUM_PAID' => '0.00',
+  'USER_DESCRIPTION' => 'тест',
+  'PAY_VOUCHER_NUM' => NULL,
+  'PAY_VOUCHER_DATE' => NULL,
+  'ADDITIONAL_INFO' => NULL,
+  'COMMENTS' => NULL,
+  'CREATED_BY' => '117',
+  'RESPONSIBLE_ID' => NULL,
+  'STAT_GID' => NULL,
+  'DATE_PAY_BEFORE' => NULL,
+  'DATE_BILL' => NULL,
+  'RECURRING_ID' => NULL,
+  'LOCKED_BY' => NULL,
+  'DATE_LOCK' => NULL,
+  'RECOUNT_FLAG' => 'Y',
+  'AFFILIATE_ID' => NULL,
+  'UPDATED_1C' => 'N',
+  'ORDER_TOPIC' => NULL,
+  'XML_ID' => NULL,
+  'ID_1C' => NULL,
+  'VERSION_1C' => NULL,
+  'VERSION' => '1',
+  'EXTERNAL_ORDER' => 'N',
+  'STORE_ID' => NULL,
+  'CANCELED' => 'N',
+  'EMP_CANCELED_ID' => NULL,
+  'DATE_CANCELED' => NULL,
+  'REASON_CANCELED' => NULL,
+  'BX_USER_ID' => NULL,
+  'DATE_INSERT_FORMAT' => '15.02.2018',
+  'DATE_UPDATE_SHORT' => '2018-02-15 00:00:00',
+  'DATE_STATUS_SHORT' => '2018-02-15 00:00:00',
+  'DATE_CANCELED_SHORT' => NULL,
+  'BY_RECOMMENDATION' => NULL,
+  'LOCK_STATUS' => 'green',
+  'LOCK_USER_NAME' => NULL,
+  'RESPONSIBLE_LOGIN' => NULL,
+  'RESPONSIBLE_NAME' => NULL,
+  'RESPONSIBLE_LAST_NAME' => NULL,
+  'RESPONSIBLE_SECOND_NAME' => NULL,
+  'RESPONSIBLE_EMAIL' => NULL,
+  'RESPONSIBLE_WORK_POSITION' => NULL,
+  'RESPONSIBLE_PERSONAL_PHOTO' => NULL,
+  'USER_LOGIN' => 'dev@dialweb.ru',
+  'USER_NAME' => 'Admin',
+  'USER_LAST_NAME' => 'Admin',
+  'USER_EMAIL' => 'dev@dialweb.ru',
+  'DATE_UPDATE_FORMAT' => '15.02.2018 13:38:54',
+  'DATE_STATUS_FORMAT' => '15.02.2018 13:38:54',
+)
+    bxModifySaleMails < call_user_func_array < ExecuteModuleEventEx < Bitrix\Sale\Notify::sendOrderNew < Bitrix\Sale\Compatible\EventCompatibility::onOrderNewSendEmail
+	/var/www/u0128361/data/www/usatba-texno.ru/bitrix/modules/main/classes/general/module.php:475
+	/var/www/u0128361/data/www/usatba-texno.ru/bitrix/modules/sale/lib/notify.php:117
+	/var/www/u0128361/data/www/usatba-texno.ru/bitrix/modules/sale/lib/compatible/eventcompatibility.php:250
+----------
+Host: www.usatba-texno.ru
+Date: 2018-02-15 13:40:22
+Module: 
+array (
+  'PAY_SYSTEM_ID' => '1',
+  'PAYED' => 'N',
+  'DATE_PAYED' => NULL,
+  'EMP_PAYED_ID' => NULL,
+  'PS_STATUS' => NULL,
+  'PS_STATUS_CODE' => NULL,
+  'PS_STATUS_DESCRIPTION' => NULL,
+  'PS_STATUS_MESSAGE' => NULL,
+  'PS_SUM' => '0',
+  'PS_CURRENCY' => NULL,
+  'PS_RESPONSE_DATE' => NULL,
+  'DELIVERY_ID' => 'new11:profile',
+  'PRICE_DELIVERY' => '0',
+  'ALLOW_DELIVERY' => 'N',
+  'DATE_ALLOW_DELIVERY' => NULL,
+  'EMP_ALLOW_DELIVERY_ID' => NULL,
+  'DATE_DEDUCTED' => NULL,
+  'EMP_DEDUCTED_ID' => NULL,
+  'REASON_UNDO_DEDUCTED' => NULL,
+  'TRACKING_NUMBER' => NULL,
+  'DELIVERY_DOC_NUM' => NULL,
+  'DELIVERY_DOC_DATE' => NULL,
+  'ID' => '185',
+  'LID' => 's1',
+  'ACCOUNT_NUMBER' => '185',
+  'DATE_INSERT' => '2018-02-15 13:40:22',
+  'DATE_UPDATE' => '2018-02-15 13:40:22',
+  'PERSON_TYPE_ID' => '1',
+  'USER_ID' => '117',
+  'DEDUCTED' => 'N',
+  'STATUS_ID' => 'N',
+  'DATE_STATUS' => '2018-02-15 13:40:22',
+  'EMP_STATUS_ID' => '117',
+  'MARKED' => 'N',
+  'DATE_MARKED' => NULL,
+  'EMP_MARKED_ID' => NULL,
+  'REASON_MARKED' => NULL,
+  'RESERVED' => 'N',
+  'PRICE' => '0',
+  'CURRENCY' => 'RUB',
+  'DISCOUNT_VALUE' => '0',
+  'TAX_VALUE' => '0.00',
+  'SUM_PAID' => '0.00',
+  'USER_DESCRIPTION' => 'test',
+  'PAY_VOUCHER_NUM' => NULL,
+  'PAY_VOUCHER_DATE' => NULL,
+  'ADDITIONAL_INFO' => NULL,
+  'COMMENTS' => NULL,
+  'CREATED_BY' => '117',
+  'RESPONSIBLE_ID' => NULL,
+  'STAT_GID' => NULL,
+  'DATE_PAY_BEFORE' => NULL,
+  'DATE_BILL' => NULL,
+  'RECURRING_ID' => NULL,
+  'LOCKED_BY' => NULL,
+  'DATE_LOCK' => NULL,
+  'RECOUNT_FLAG' => 'Y',
+  'AFFILIATE_ID' => NULL,
+  'UPDATED_1C' => 'N',
+  'ORDER_TOPIC' => NULL,
+  'XML_ID' => NULL,
+  'ID_1C' => NULL,
+  'VERSION_1C' => NULL,
+  'VERSION' => '1',
+  'EXTERNAL_ORDER' => 'N',
+  'STORE_ID' => NULL,
+  'CANCELED' => 'N',
+  'EMP_CANCELED_ID' => NULL,
+  'DATE_CANCELED' => NULL,
+  'REASON_CANCELED' => NULL,
+  'BX_USER_ID' => NULL,
+  'DATE_INSERT_FORMAT' => '15.02.2018',
+  'DATE_UPDATE_SHORT' => '2018-02-15 00:00:00',
+  'DATE_STATUS_SHORT' => '2018-02-15 00:00:00',
+  'DATE_CANCELED_SHORT' => NULL,
+  'BY_RECOMMENDATION' => NULL,
+  'LOCK_STATUS' => 'green',
+  'LOCK_USER_NAME' => NULL,
+  'RESPONSIBLE_LOGIN' => NULL,
+  'RESPONSIBLE_NAME' => NULL,
+  'RESPONSIBLE_LAST_NAME' => NULL,
+  'RESPONSIBLE_SECOND_NAME' => NULL,
+  'RESPONSIBLE_EMAIL' => NULL,
+  'RESPONSIBLE_WORK_POSITION' => NULL,
+  'RESPONSIBLE_PERSONAL_PHOTO' => NULL,
+  'USER_LOGIN' => 'dev@dialweb.ru',
+  'USER_NAME' => 'Admin',
+  'USER_LAST_NAME' => 'Admin',
+  'USER_EMAIL' => 'dev@dialweb.ru',
+  'DATE_UPDATE_FORMAT' => '15.02.2018 13:40:22',
+  'DATE_STATUS_FORMAT' => '15.02.2018 13:40:22',
+)
+    bxModifySaleMails < call_user_func_array < ExecuteModuleEventEx < Bitrix\Sale\Notify::sendOrderNew < Bitrix\Sale\Compatible\EventCompatibility::onOrderNewSendEmail
+	/var/www/u0128361/data/www/usatba-texno.ru/bitrix/modules/main/classes/general/module.php:475
+	/var/www/u0128361/data/www/usatba-texno.ru/bitrix/modules/sale/lib/notify.php:117
+	/var/www/u0128361/data/www/usatba-texno.ru/bitrix/modules/sale/lib/compatible/eventcompatibility.php:250
+----------
+Host: www.usatba-texno.ru
+Date: 2018-02-15 13:43:25
+Module: 
+array (
+  'PAY_SYSTEM_ID' => '1',
+  'PAYED' => 'N',
+  'DATE_PAYED' => NULL,
+  'EMP_PAYED_ID' => NULL,
+  'PS_STATUS' => NULL,
+  'PS_STATUS_CODE' => NULL,
+  'PS_STATUS_DESCRIPTION' => NULL,
+  'PS_STATUS_MESSAGE' => NULL,
+  'PS_SUM' => '0',
+  'PS_CURRENCY' => NULL,
+  'PS_RESPONSE_DATE' => NULL,
+  'DELIVERY_ID' => 'new11:profile',
+  'PRICE_DELIVERY' => '0',
+  'ALLOW_DELIVERY' => 'N',
+  'DATE_ALLOW_DELIVERY' => NULL,
+  'EMP_ALLOW_DELIVERY_ID' => NULL,
+  'DATE_DEDUCTED' => NULL,
+  'EMP_DEDUCTED_ID' => NULL,
+  'REASON_UNDO_DEDUCTED' => NULL,
+  'TRACKING_NUMBER' => NULL,
+  'DELIVERY_DOC_NUM' => NULL,
+  'DELIVERY_DOC_DATE' => NULL,
+  'ID' => '186',
+  'LID' => 's1',
+  'ACCOUNT_NUMBER' => '186',
+  'DATE_INSERT' => '2018-02-15 13:43:25',
+  'DATE_UPDATE' => '2018-02-15 13:43:25',
+  'PERSON_TYPE_ID' => '1',
+  'USER_ID' => '117',
+  'DEDUCTED' => 'N',
+  'STATUS_ID' => 'N',
+  'DATE_STATUS' => '2018-02-15 13:43:25',
+  'EMP_STATUS_ID' => '117',
+  'MARKED' => 'N',
+  'DATE_MARKED' => NULL,
+  'EMP_MARKED_ID' => NULL,
+  'REASON_MARKED' => NULL,
+  'RESERVED' => 'N',
+  'PRICE' => '0',
+  'CURRENCY' => 'RUB',
+  'DISCOUNT_VALUE' => '0',
+  'TAX_VALUE' => '0.00',
+  'SUM_PAID' => '0.00',
+  'USER_DESCRIPTION' => 'тестовый',
+  'PAY_VOUCHER_NUM' => NULL,
+  'PAY_VOUCHER_DATE' => NULL,
+  'ADDITIONAL_INFO' => NULL,
+  'COMMENTS' => NULL,
+  'CREATED_BY' => '117',
+  'RESPONSIBLE_ID' => NULL,
+  'STAT_GID' => NULL,
+  'DATE_PAY_BEFORE' => NULL,
+  'DATE_BILL' => NULL,
+  'RECURRING_ID' => NULL,
+  'LOCKED_BY' => NULL,
+  'DATE_LOCK' => NULL,
+  'RECOUNT_FLAG' => 'Y',
+  'AFFILIATE_ID' => NULL,
+  'UPDATED_1C' => 'N',
+  'ORDER_TOPIC' => NULL,
+  'XML_ID' => NULL,
+  'ID_1C' => NULL,
+  'VERSION_1C' => NULL,
+  'VERSION' => '1',
+  'EXTERNAL_ORDER' => 'N',
+  'STORE_ID' => NULL,
+  'CANCELED' => 'N',
+  'EMP_CANCELED_ID' => NULL,
+  'DATE_CANCELED' => NULL,
+  'REASON_CANCELED' => NULL,
+  'BX_USER_ID' => NULL,
+  'DATE_INSERT_FORMAT' => '15.02.2018',
+  'DATE_UPDATE_SHORT' => '2018-02-15 00:00:00',
+  'DATE_STATUS_SHORT' => '2018-02-15 00:00:00',
+  'DATE_CANCELED_SHORT' => NULL,
+  'BY_RECOMMENDATION' => NULL,
+  'LOCK_STATUS' => 'green',
+  'LOCK_USER_NAME' => NULL,
+  'RESPONSIBLE_LOGIN' => NULL,
+  'RESPONSIBLE_NAME' => NULL,
+  'RESPONSIBLE_LAST_NAME' => NULL,
+  'RESPONSIBLE_SECOND_NAME' => NULL,
+  'RESPONSIBLE_EMAIL' => NULL,
+  'RESPONSIBLE_WORK_POSITION' => NULL,
+  'RESPONSIBLE_PERSONAL_PHOTO' => NULL,
+  'USER_LOGIN' => 'dev@dialweb.ru',
+  'USER_NAME' => 'Admin',
+  'USER_LAST_NAME' => 'Admin',
+  'USER_EMAIL' => 'dev@dialweb.ru',
+  'DATE_UPDATE_FORMAT' => '15.02.2018 13:43:25',
+  'DATE_STATUS_FORMAT' => '15.02.2018 13:43:25',
+)
+    bxModifySaleMails < call_user_func_array < ExecuteModuleEventEx < Bitrix\Sale\Notify::sendOrderNew < Bitrix\Sale\Compatible\EventCompatibility::onOrderNewSendEmail
+	/var/www/u0128361/data/www/usatba-texno.ru/bitrix/modules/main/classes/general/module.php:475
+	/var/www/u0128361/data/www/usatba-texno.ru/bitrix/modules/sale/lib/notify.php:117
+	/var/www/u0128361/data/www/usatba-texno.ru/bitrix/modules/sale/lib/compatible/eventcompatibility.php:250
+----------
+Host: www.usatba-texno.ru
+Date: 2018-02-15 13:43:25
+Module: 
+, -, 
+    bxModifySaleMails < call_user_func_array < ExecuteModuleEventEx < Bitrix\Sale\Notify::sendOrderNew < Bitrix\Sale\Compatible\EventCompatibility::onOrderNewSendEmail
+	/var/www/u0128361/data/www/usatba-texno.ru/bitrix/modules/main/classes/general/module.php:475
+	/var/www/u0128361/data/www/usatba-texno.ru/bitrix/modules/sale/lib/notify.php:117
+	/var/www/u0128361/data/www/usatba-texno.ru/bitrix/modules/sale/lib/compatible/eventcompatibility.php:250
+----------
+Host: www.usatba-texno.ru
+Date: 2018-02-15 13:43:25
+Module: 
+, -, 
+    bxModifySaleMails < call_user_func_array < ExecuteModuleEventEx < Bitrix\Sale\Notify::sendOrderNew < Bitrix\Sale\Compatible\EventCompatibility::onOrderNewSendEmail
+	/var/www/u0128361/data/www/usatba-texno.ru/bitrix/modules/main/classes/general/module.php:475
+	/var/www/u0128361/data/www/usatba-texno.ru/bitrix/modules/sale/lib/notify.php:117
+	/var/www/u0128361/data/www/usatba-texno.ru/bitrix/modules/sale/lib/compatible/eventcompatibility.php:250
+----------
+Host: www.usatba-texno.ru
+Date: 2018-02-15 13:43:25
+Module: 
+false
+    bxModifySaleMails < call_user_func_array < ExecuteModuleEventEx < Bitrix\Sale\Notify::sendOrderNew < Bitrix\Sale\Compatible\EventCompatibility::onOrderNewSendEmail
+	/var/www/u0128361/data/www/usatba-texno.ru/bitrix/modules/main/classes/general/module.php:475
+	/var/www/u0128361/data/www/usatba-texno.ru/bitrix/modules/sale/lib/notify.php:117
+	/var/www/u0128361/data/www/usatba-texno.ru/bitrix/modules/sale/lib/compatible/eventcompatibility.php:250
+----------
+Host: www.usatba-texno.ru
+Date: 2018-02-15 13:43:25
+Module: 
+array (
+  'ORDER_ID' => 186,
+  'ORDER_DATE' => '15.02.2018 13:43:25',
+  'ORDER_USER' => 'Admin Admin',
+  'PRICE' => '0 руб.',
+  'BCC' => 'usatba-texno@mail.ru',
+  'EMAIL' => 'dev@dialweb.ru',
+  'ORDER_LIST' => '',
+  'SALE_EMAIL' => 'usatba-texno@mail.ru',
+  'DELIVERY_PRICE' => 0,
+  'PHONE' => '',
+  'DELIVERY_NAME' => '',
+  'PAY_SYSTEM_NAME' => 'Наличные',
+  'FULL_ADDRESS' => ', -, ',
+)
+    bxModifySaleMails < call_user_func_array < ExecuteModuleEventEx < Bitrix\Sale\Notify::sendOrderNew < Bitrix\Sale\Compatible\EventCompatibility::onOrderNewSendEmail
+	/var/www/u0128361/data/www/usatba-texno.ru/bitrix/modules/main/classes/general/module.php:475
+	/var/www/u0128361/data/www/usatba-texno.ru/bitrix/modules/sale/lib/notify.php:117
+	/var/www/u0128361/data/www/usatba-texno.ru/bitrix/modules/sale/lib/compatible/eventcompatibility.php:250
+----------
+Host: www.usatba-texno.ru
+Date: 2018-02-15 13:59:13
+Module: 
+array (
+  'PAY_SYSTEM_ID' => '1',
+  'PAYED' => 'N',
+  'DATE_PAYED' => NULL,
+  'EMP_PAYED_ID' => NULL,
+  'PS_STATUS' => NULL,
+  'PS_STATUS_CODE' => NULL,
+  'PS_STATUS_DESCRIPTION' => NULL,
+  'PS_STATUS_MESSAGE' => NULL,
+  'PS_SUM' => '0',
+  'PS_CURRENCY' => NULL,
+  'PS_RESPONSE_DATE' => NULL,
+  'DELIVERY_ID' => 'new11:profile',
+  'PRICE_DELIVERY' => '0',
+  'ALLOW_DELIVERY' => 'N',
+  'DATE_ALLOW_DELIVERY' => NULL,
+  'EMP_ALLOW_DELIVERY_ID' => NULL,
+  'DATE_DEDUCTED' => NULL,
+  'EMP_DEDUCTED_ID' => NULL,
+  'REASON_UNDO_DEDUCTED' => NULL,
+  'TRACKING_NUMBER' => NULL,
+  'DELIVERY_DOC_NUM' => NULL,
+  'DELIVERY_DOC_DATE' => NULL,
+  'ID' => '187',
+  'LID' => 's1',
+  'ACCOUNT_NUMBER' => '187',
+  'DATE_INSERT' => '2018-02-15 13:59:12',
+  'DATE_UPDATE' => '2018-02-15 13:59:12',
+  'PERSON_TYPE_ID' => '1',
+  'USER_ID' => '578',
+  'DEDUCTED' => 'N',
+  'STATUS_ID' => 'N',
+  'DATE_STATUS' => '2018-02-15 13:59:12',
+  'EMP_STATUS_ID' => NULL,
+  'MARKED' => 'N',
+  'DATE_MARKED' => NULL,
+  'EMP_MARKED_ID' => NULL,
+  'REASON_MARKED' => NULL,
+  'RESERVED' => 'N',
+  'PRICE' => '0',
+  'CURRENCY' => 'RUB',
+  'DISCOUNT_VALUE' => '0',
+  'TAX_VALUE' => '0.00',
+  'SUM_PAID' => '0.00',
+  'USER_DESCRIPTION' => 'ФИО: testname; E-mail: testemail@mail.ru; Телефон: 8911222333555; Комментарии: test',
+  'PAY_VOUCHER_NUM' => NULL,
+  'PAY_VOUCHER_DATE' => NULL,
+  'ADDITIONAL_INFO' => NULL,
+  'COMMENTS' => NULL,
+  'CREATED_BY' => NULL,
+  'RESPONSIBLE_ID' => NULL,
+  'STAT_GID' => NULL,
+  'DATE_PAY_BEFORE' => NULL,
+  'DATE_BILL' => NULL,
+  'RECURRING_ID' => NULL,
+  'LOCKED_BY' => NULL,
+  'DATE_LOCK' => NULL,
+  'RECOUNT_FLAG' => 'Y',
+  'AFFILIATE_ID' => NULL,
+  'UPDATED_1C' => 'N',
+  'ORDER_TOPIC' => NULL,
+  'XML_ID' => NULL,
+  'ID_1C' => NULL,
+  'VERSION_1C' => NULL,
+  'VERSION' => '1',
+  'EXTERNAL_ORDER' => 'N',
+  'STORE_ID' => NULL,
+  'CANCELED' => 'N',
+  'EMP_CANCELED_ID' => NULL,
+  'DATE_CANCELED' => NULL,
+  'REASON_CANCELED' => NULL,
+  'BX_USER_ID' => NULL,
+  'DATE_INSERT_FORMAT' => '15.02.2018',
+  'DATE_UPDATE_SHORT' => '2018-02-15 00:00:00',
+  'DATE_STATUS_SHORT' => '2018-02-15 00:00:00',
+  'DATE_CANCELED_SHORT' => NULL,
+  'BY_RECOMMENDATION' => NULL,
+  'LOCK_STATUS' => 'green',
+  'LOCK_USER_NAME' => NULL,
+  'RESPONSIBLE_LOGIN' => NULL,
+  'RESPONSIBLE_NAME' => NULL,
+  'RESPONSIBLE_LAST_NAME' => NULL,
+  'RESPONSIBLE_SECOND_NAME' => NULL,
+  'RESPONSIBLE_EMAIL' => NULL,
+  'RESPONSIBLE_WORK_POSITION' => NULL,
+  'RESPONSIBLE_PERSONAL_PHOTO' => NULL,
+  'USER_LOGIN' => 'testemail@mail.ru',
+  'USER_NAME' => NULL,
+  'USER_LAST_NAME' => 'testname',
+  'USER_EMAIL' => 'testemail@mail.ru',
+  'DATE_UPDATE_FORMAT' => '15.02.2018 13:59:12',
+  'DATE_STATUS_FORMAT' => '15.02.2018 13:59:12',
+)
+    bxModifySaleMails < call_user_func_array < ExecuteModuleEventEx < Bitrix\Sale\Notify::sendOrderNew < Bitrix\Sale\Compatible\EventCompatibility::onOrderNewSendEmail
+	/var/www/u0128361/data/www/usatba-texno.ru/bitrix/modules/main/classes/general/module.php:475
+	/var/www/u0128361/data/www/usatba-texno.ru/bitrix/modules/sale/lib/notify.php:117
+	/var/www/u0128361/data/www/usatba-texno.ru/bitrix/modules/sale/lib/compatible/eventcompatibility.php:250
+----------
+Host: www.usatba-texno.ru
+Date: 2018-02-15 13:59:13
+Module: 
+, -, 
+    bxModifySaleMails < call_user_func_array < ExecuteModuleEventEx < Bitrix\Sale\Notify::sendOrderNew < Bitrix\Sale\Compatible\EventCompatibility::onOrderNewSendEmail
+	/var/www/u0128361/data/www/usatba-texno.ru/bitrix/modules/main/classes/general/module.php:475
+	/var/www/u0128361/data/www/usatba-texno.ru/bitrix/modules/sale/lib/notify.php:117
+	/var/www/u0128361/data/www/usatba-texno.ru/bitrix/modules/sale/lib/compatible/eventcompatibility.php:250
+----------
+Host: www.usatba-texno.ru
+Date: 2018-02-15 13:59:13
+Module: 
+, -, 
+    bxModifySaleMails < call_user_func_array < ExecuteModuleEventEx < Bitrix\Sale\Notify::sendOrderNew < Bitrix\Sale\Compatible\EventCompatibility::onOrderNewSendEmail
+	/var/www/u0128361/data/www/usatba-texno.ru/bitrix/modules/main/classes/general/module.php:475
+	/var/www/u0128361/data/www/usatba-texno.ru/bitrix/modules/sale/lib/notify.php:117
+	/var/www/u0128361/data/www/usatba-texno.ru/bitrix/modules/sale/lib/compatible/eventcompatibility.php:250
+----------
+Host: www.usatba-texno.ru
+Date: 2018-02-15 13:59:13
+Module: 
+false
+    bxModifySaleMails < call_user_func_array < ExecuteModuleEventEx < Bitrix\Sale\Notify::sendOrderNew < Bitrix\Sale\Compatible\EventCompatibility::onOrderNewSendEmail
+	/var/www/u0128361/data/www/usatba-texno.ru/bitrix/modules/main/classes/general/module.php:475
+	/var/www/u0128361/data/www/usatba-texno.ru/bitrix/modules/sale/lib/notify.php:117
+	/var/www/u0128361/data/www/usatba-texno.ru/bitrix/modules/sale/lib/compatible/eventcompatibility.php:250
+----------
+Host: www.usatba-texno.ru
+Date: 2018-02-15 13:59:13
+Module: 
+array (
+  'ORDER_ID' => 187,
+  'ORDER_DATE' => '15.02.2018 13:59:12',
+  'ORDER_USER' => 'testname',
+  'PRICE' => '0 руб.',
+  'BCC' => 'usatba-texno@mail.ru',
+  'EMAIL' => 'testemail@mail.ru',
+  'ORDER_LIST' => '',
+  'SALE_EMAIL' => 'usatba-texno@mail.ru',
+  'DELIVERY_PRICE' => 0,
+  'PHONE' => '',
+  'DELIVERY_NAME' => '',
+  'PAY_SYSTEM_NAME' => 'Наличные',
+  'FULL_ADDRESS' => ', -, ',
+)
+    bxModifySaleMails < call_user_func_array < ExecuteModuleEventEx < Bitrix\Sale\Notify::sendOrderNew < Bitrix\Sale\Compatible\EventCompatibility::onOrderNewSendEmail
+	/var/www/u0128361/data/www/usatba-texno.ru/bitrix/modules/main/classes/general/module.php:475
+	/var/www/u0128361/data/www/usatba-texno.ru/bitrix/modules/sale/lib/notify.php:117
+	/var/www/u0128361/data/www/usatba-texno.ru/bitrix/modules/sale/lib/compatible/eventcompatibility.php:250
+----------
+Host: www.usatba-texno.ru
+Date: 2018-02-15 14:08:15
+Module: 
+array (
+  'PAY_SYSTEM_ID' => '1',
+  'PAYED' => 'N',
+  'DATE_PAYED' => NULL,
+  'EMP_PAYED_ID' => NULL,
+  'PS_STATUS' => NULL,
+  'PS_STATUS_CODE' => NULL,
+  'PS_STATUS_DESCRIPTION' => NULL,
+  'PS_STATUS_MESSAGE' => NULL,
+  'PS_SUM' => '0',
+  'PS_CURRENCY' => NULL,
+  'PS_RESPONSE_DATE' => NULL,
+  'DELIVERY_ID' => 'new11:profile',
+  'PRICE_DELIVERY' => '0',
+  'ALLOW_DELIVERY' => 'N',
+  'DATE_ALLOW_DELIVERY' => NULL,
+  'EMP_ALLOW_DELIVERY_ID' => NULL,
+  'DATE_DEDUCTED' => NULL,
+  'EMP_DEDUCTED_ID' => NULL,
+  'REASON_UNDO_DEDUCTED' => NULL,
+  'TRACKING_NUMBER' => NULL,
+  'DELIVERY_DOC_NUM' => NULL,
+  'DELIVERY_DOC_DATE' => NULL,
+  'ID' => '188',
+  'LID' => 's1',
+  'ACCOUNT_NUMBER' => '188',
+  'DATE_INSERT' => '2018-02-15 14:08:15',
+  'DATE_UPDATE' => '2018-02-15 14:08:15',
+  'PERSON_TYPE_ID' => '1',
+  'USER_ID' => '117',
+  'DEDUCTED' => 'N',
+  'STATUS_ID' => 'N',
+  'DATE_STATUS' => '2018-02-15 14:08:15',
+  'EMP_STATUS_ID' => '117',
+  'MARKED' => 'N',
+  'DATE_MARKED' => NULL,
+  'EMP_MARKED_ID' => NULL,
+  'REASON_MARKED' => NULL,
+  'RESERVED' => 'N',
+  'PRICE' => '0',
+  'CURRENCY' => 'RUB',
+  'DISCOUNT_VALUE' => '0',
+  'TAX_VALUE' => '0.00',
+  'SUM_PAID' => '0.00',
+  'USER_DESCRIPTION' => 'qwerty test',
+  'PAY_VOUCHER_NUM' => NULL,
+  'PAY_VOUCHER_DATE' => NULL,
+  'ADDITIONAL_INFO' => NULL,
+  'COMMENTS' => NULL,
+  'CREATED_BY' => '117',
+  'RESPONSIBLE_ID' => NULL,
+  'STAT_GID' => NULL,
+  'DATE_PAY_BEFORE' => NULL,
+  'DATE_BILL' => NULL,
+  'RECURRING_ID' => NULL,
+  'LOCKED_BY' => NULL,
+  'DATE_LOCK' => NULL,
+  'RECOUNT_FLAG' => 'Y',
+  'AFFILIATE_ID' => NULL,
+  'UPDATED_1C' => 'N',
+  'ORDER_TOPIC' => NULL,
+  'XML_ID' => NULL,
+  'ID_1C' => NULL,
+  'VERSION_1C' => NULL,
+  'VERSION' => '1',
+  'EXTERNAL_ORDER' => 'N',
+  'STORE_ID' => NULL,
+  'CANCELED' => 'N',
+  'EMP_CANCELED_ID' => NULL,
+  'DATE_CANCELED' => NULL,
+  'REASON_CANCELED' => NULL,
+  'BX_USER_ID' => NULL,
+  'DATE_INSERT_FORMAT' => '15.02.2018',
+  'DATE_UPDATE_SHORT' => '2018-02-15 00:00:00',
+  'DATE_STATUS_SHORT' => '2018-02-15 00:00:00',
+  'DATE_CANCELED_SHORT' => NULL,
+  'BY_RECOMMENDATION' => NULL,
+  'LOCK_STATUS' => 'green',
+  'LOCK_USER_NAME' => NULL,
+  'RESPONSIBLE_LOGIN' => NULL,
+  'RESPONSIBLE_NAME' => NULL,
+  'RESPONSIBLE_LAST_NAME' => NULL,
+  'RESPONSIBLE_SECOND_NAME' => NULL,
+  'RESPONSIBLE_EMAIL' => NULL,
+  'RESPONSIBLE_WORK_POSITION' => NULL,
+  'RESPONSIBLE_PERSONAL_PHOTO' => NULL,
+  'USER_LOGIN' => 'dev@dialweb.ru',
+  'USER_NAME' => 'Admin',
+  'USER_LAST_NAME' => 'Admin',
+  'USER_EMAIL' => 'dev@dialweb.ru',
+  'DATE_UPDATE_FORMAT' => '15.02.2018 14:08:15',
+  'DATE_STATUS_FORMAT' => '15.02.2018 14:08:15',
+)
+    bxModifySaleMails < call_user_func_array < ExecuteModuleEventEx < Bitrix\Sale\Notify::sendOrderNew < Bitrix\Sale\Compatible\EventCompatibility::onOrderNewSendEmail
+	/var/www/u0128361/data/www/usatba-texno.ru/bitrix/modules/main/classes/general/module.php:475
+	/var/www/u0128361/data/www/usatba-texno.ru/bitrix/modules/sale/lib/notify.php:117
+	/var/www/u0128361/data/www/usatba-texno.ru/bitrix/modules/sale/lib/compatible/eventcompatibility.php:250
+----------
+Host: www.usatba-texno.ru
+Date: 2018-02-15 14:08:15
+Module: 
+array (
+)
+    bxModifySaleMails < call_user_func_array < ExecuteModuleEventEx < Bitrix\Sale\Notify::sendOrderNew < Bitrix\Sale\Compatible\EventCompatibility::onOrderNewSendEmail
+	/var/www/u0128361/data/www/usatba-texno.ru/bitrix/modules/main/classes/general/module.php:475
+	/var/www/u0128361/data/www/usatba-texno.ru/bitrix/modules/sale/lib/notify.php:117
+	/var/www/u0128361/data/www/usatba-texno.ru/bitrix/modules/sale/lib/compatible/eventcompatibility.php:250
+----------
+Host: www.usatba-texno.ru
+Date: 2018-02-15 14:08:15
+Module: 
+, -, 
+    bxModifySaleMails < call_user_func_array < ExecuteModuleEventEx < Bitrix\Sale\Notify::sendOrderNew < Bitrix\Sale\Compatible\EventCompatibility::onOrderNewSendEmail
+	/var/www/u0128361/data/www/usatba-texno.ru/bitrix/modules/main/classes/general/module.php:475
+	/var/www/u0128361/data/www/usatba-texno.ru/bitrix/modules/sale/lib/notify.php:117
+	/var/www/u0128361/data/www/usatba-texno.ru/bitrix/modules/sale/lib/compatible/eventcompatibility.php:250
+----------
+Host: www.usatba-texno.ru
+Date: 2018-02-15 14:08:15
+Module: 
+, -, 
+    bxModifySaleMails < call_user_func_array < ExecuteModuleEventEx < Bitrix\Sale\Notify::sendOrderNew < Bitrix\Sale\Compatible\EventCompatibility::onOrderNewSendEmail
+	/var/www/u0128361/data/www/usatba-texno.ru/bitrix/modules/main/classes/general/module.php:475
+	/var/www/u0128361/data/www/usatba-texno.ru/bitrix/modules/sale/lib/notify.php:117
+	/var/www/u0128361/data/www/usatba-texno.ru/bitrix/modules/sale/lib/compatible/eventcompatibility.php:250
+----------
+Host: www.usatba-texno.ru
+Date: 2018-02-15 14:08:15
+Module: 
+false
+    bxModifySaleMails < call_user_func_array < ExecuteModuleEventEx < Bitrix\Sale\Notify::sendOrderNew < Bitrix\Sale\Compatible\EventCompatibility::onOrderNewSendEmail
+	/var/www/u0128361/data/www/usatba-texno.ru/bitrix/modules/main/classes/general/module.php:475
+	/var/www/u0128361/data/www/usatba-texno.ru/bitrix/modules/sale/lib/notify.php:117
+	/var/www/u0128361/data/www/usatba-texno.ru/bitrix/modules/sale/lib/compatible/eventcompatibility.php:250
+----------
+Host: www.usatba-texno.ru
+Date: 2018-02-15 14:08:16
+Module: 
+array (
+  'ORDER_ID' => 188,
+  'ORDER_DATE' => '15.02.2018 14:08:15',
+  'ORDER_USER' => 'Admin Admin',
+  'PRICE' => '0 руб.',
+  'BCC' => 'usatba-texno@mail.ru',
+  'EMAIL' => 'dev@dialweb.ru',
+  'ORDER_LIST' => '',
+  'SALE_EMAIL' => 'usatba-texno@mail.ru',
+  'DELIVERY_PRICE' => 0,
+  'PHONE' => '',
+  'DELIVERY_NAME' => '',
+  'PAY_SYSTEM_NAME' => 'Наличные',
+  'FULL_ADDRESS' => ', -, ',
+)
+    bxModifySaleMails < call_user_func_array < ExecuteModuleEventEx < Bitrix\Sale\Notify::sendOrderNew < Bitrix\Sale\Compatible\EventCompatibility::onOrderNewSendEmail
+	/var/www/u0128361/data/www/usatba-texno.ru/bitrix/modules/main/classes/general/module.php:475
+	/var/www/u0128361/data/www/usatba-texno.ru/bitrix/modules/sale/lib/notify.php:117
+	/var/www/u0128361/data/www/usatba-texno.ru/bitrix/modules/sale/lib/compatible/eventcompatibility.php:250
+----------
+Host: www.usatba-texno.ru
+Date: 2018-02-15 14:33:13
+Module: 
+array (
+  'ORDER_ID' => 190,
+  'ORDER_DATE' => '15.02.2018 14:33:12',
+  'ORDER_USER' => 'Admin Admin',
+  'PRICE' => '0 руб.',
+  'BCC' => 'usatba-texno@mail.ru',
+  'EMAIL' => 'dev@dialweb.ru',
+  'ORDER_LIST' => '',
+  'SALE_EMAIL' => 'usatba-texno@mail.ru',
+  'DELIVERY_PRICE' => '0 руб.',
+  'DELIVERY_NAME' => 'Без доставки',
+  'TOTAL_PRICE' => 0,
+  'PAY_SYSTEM_NAME' => 'Наличные',
+  'LOCATION' => '0000250453',
+  'COMPANY' => '',
+  'FULL_ADDRESS' => NULL,
+  'ORDER_DESCRIPTION' => 'описание тестового заказа',
+  'ITEMS_LIST' => '',
+  'ITEMS_PRICE' => '0 руб.',
+)
+    bxModifySaleMails < call_user_func_array < ExecuteModuleEventEx < Bitrix\Sale\Notify::sendOrderNew < Bitrix\Sale\Compatible\EventCompatibility::onOrderNewSendEmail
+	/var/www/u0128361/data/www/usatba-texno.ru/bitrix/modules/main/classes/general/module.php:475
+	/var/www/u0128361/data/www/usatba-texno.ru/bitrix/modules/sale/lib/notify.php:117
+	/var/www/u0128361/data/www/usatba-texno.ru/bitrix/modules/sale/lib/compatible/eventcompatibility.php:250
+----------
+Host: www.usatba-texno.ru
+Date: 2018-02-15 14:51:20
+Module: 
+array (
+  'ORDER_ID' => 191,
+  'ORDER_DATE' => '15.02.2018 14:51:20',
+  'ORDER_USER' => 'Admin Admin',
+  'PRICE' => '0 руб.',
+  'BCC' => 'usatba-texno@mail.ru',
+  'EMAIL' => 'dev@dialweb.ru',
+  'ORDER_LIST' => '',
+  'SALE_EMAIL' => 'usatba-texno@mail.ru',
+  'DELIVERY_PRICE' => '0 руб.',
+  'DELIVERY_NAME' => 'Самовывоз',
+  'TOTAL_PRICE' => 0,
+  'PAY_SYSTEM_NAME' => 'Наличный расчет',
+  'LOCATION' => '0000250453',
+  'COMPANY' => '',
+  'FULL_ADDRESS' => 'пр. Московский д. 51',
+  'ORDER_DESCRIPTION' => NULL,
+  'ITEMS_LIST' => '',
+  'ITEMS_PRICE' => '0 руб.',
+)
+    bxModifySaleMails < call_user_func_array < ExecuteModuleEventEx < Bitrix\Sale\Notify::sendOrderNew < Bitrix\Sale\Compatible\EventCompatibility::onOrderNewSendEmail
+	/var/www/u0128361/data/www/usatba-texno.ru/bitrix/modules/main/classes/general/module.php:475
+	/var/www/u0128361/data/www/usatba-texno.ru/bitrix/modules/sale/lib/notify.php:117
+	/var/www/u0128361/data/www/usatba-texno.ru/bitrix/modules/sale/lib/compatible/eventcompatibility.php:250
+----------
+Host: www.usatba-texno.ru
+Date: 2018-02-15 15:19:46
+Module: 
+array (
+  'PAY_SYSTEM_ID' => '1',
+  'PAYED' => 'N',
+  'DATE_PAYED' => NULL,
+  'EMP_PAYED_ID' => NULL,
+  'PS_STATUS' => NULL,
+  'PS_STATUS_CODE' => NULL,
+  'PS_STATUS_DESCRIPTION' => NULL,
+  'PS_STATUS_MESSAGE' => NULL,
+  'PS_SUM' => '0',
+  'PS_CURRENCY' => NULL,
+  'PS_RESPONSE_DATE' => NULL,
+  'DELIVERY_ID' => 'new11:profile',
+  'PRICE_DELIVERY' => '0',
+  'ALLOW_DELIVERY' => 'N',
+  'DATE_ALLOW_DELIVERY' => NULL,
+  'EMP_ALLOW_DELIVERY_ID' => NULL,
+  'DATE_DEDUCTED' => NULL,
+  'EMP_DEDUCTED_ID' => NULL,
+  'REASON_UNDO_DEDUCTED' => NULL,
+  'TRACKING_NUMBER' => NULL,
+  'DELIVERY_DOC_NUM' => NULL,
+  'DELIVERY_DOC_DATE' => NULL,
+  'ID' => '192',
+  'LID' => 's1',
+  'ACCOUNT_NUMBER' => '192',
+  'DATE_INSERT' => '2018-02-15 15:19:45',
+  'DATE_UPDATE' => '2018-02-15 15:19:45',
+  'PERSON_TYPE_ID' => '1',
+  'USER_ID' => '117',
+  'DEDUCTED' => 'N',
+  'STATUS_ID' => 'N',
+  'DATE_STATUS' => '2018-02-15 15:19:45',
+  'EMP_STATUS_ID' => '117',
+  'MARKED' => 'N',
+  'DATE_MARKED' => NULL,
+  'EMP_MARKED_ID' => NULL,
+  'REASON_MARKED' => NULL,
+  'RESERVED' => 'N',
+  'PRICE' => '0',
+  'CURRENCY' => 'RUB',
+  'DISCOUNT_VALUE' => '0',
+  'TAX_VALUE' => '0.00',
+  'SUM_PAID' => '0.00',
+  'USER_DESCRIPTION' => 'testestst',
+  'PAY_VOUCHER_NUM' => NULL,
+  'PAY_VOUCHER_DATE' => NULL,
+  'ADDITIONAL_INFO' => NULL,
+  'COMMENTS' => NULL,
+  'CREATED_BY' => '117',
+  'RESPONSIBLE_ID' => NULL,
+  'STAT_GID' => NULL,
+  'DATE_PAY_BEFORE' => NULL,
+  'DATE_BILL' => NULL,
+  'RECURRING_ID' => NULL,
+  'LOCKED_BY' => NULL,
+  'DATE_LOCK' => NULL,
+  'RECOUNT_FLAG' => 'Y',
+  'AFFILIATE_ID' => NULL,
+  'UPDATED_1C' => 'N',
+  'ORDER_TOPIC' => NULL,
+  'XML_ID' => NULL,
+  'ID_1C' => NULL,
+  'VERSION_1C' => NULL,
+  'VERSION' => '1',
+  'EXTERNAL_ORDER' => 'N',
+  'STORE_ID' => NULL,
+  'CANCELED' => 'N',
+  'EMP_CANCELED_ID' => NULL,
+  'DATE_CANCELED' => NULL,
+  'REASON_CANCELED' => NULL,
+  'BX_USER_ID' => NULL,
+  'DATE_INSERT_FORMAT' => '15.02.2018',
+  'DATE_UPDATE_SHORT' => '2018-02-15 00:00:00',
+  'DATE_STATUS_SHORT' => '2018-02-15 00:00:00',
+  'DATE_CANCELED_SHORT' => NULL,
+  'BY_RECOMMENDATION' => NULL,
+  'LOCK_STATUS' => 'green',
+  'LOCK_USER_NAME' => NULL,
+  'RESPONSIBLE_LOGIN' => NULL,
+  'RESPONSIBLE_NAME' => NULL,
+  'RESPONSIBLE_LAST_NAME' => NULL,
+  'RESPONSIBLE_SECOND_NAME' => NULL,
+  'RESPONSIBLE_EMAIL' => NULL,
+  'RESPONSIBLE_WORK_POSITION' => NULL,
+  'RESPONSIBLE_PERSONAL_PHOTO' => NULL,
+  'USER_LOGIN' => 'dev@dialweb.ru',
+  'USER_NAME' => 'Admin',
+  'USER_LAST_NAME' => 'Admin',
+  'USER_EMAIL' => 'dev@dialweb.ru',
+  'DATE_UPDATE_FORMAT' => '15.02.2018 15:19:45',
+  'DATE_STATUS_FORMAT' => '15.02.2018 15:19:45',
+)
+    bxModifySaleMails < call_user_func_array < ExecuteModuleEventEx < Bitrix\Sale\Notify::sendOrderNew < Bitrix\Sale\Compatible\EventCompatibility::onOrderNewSendEmail
+	/var/www/u0128361/data/www/usatba-texno.ru/bitrix/modules/main/classes/general/module.php:475
+	/var/www/u0128361/data/www/usatba-texno.ru/bitrix/modules/sale/lib/notify.php:117
+	/var/www/u0128361/data/www/usatba-texno.ru/bitrix/modules/sale/lib/compatible/eventcompatibility.php:250
+----------
+Host: www.usatba-texno.ru
+Date: 2018-02-15 15:19:46
+Module: 
+, -, 
+    bxModifySaleMails < call_user_func_array < ExecuteModuleEventEx < Bitrix\Sale\Notify::sendOrderNew < Bitrix\Sale\Compatible\EventCompatibility::onOrderNewSendEmail
+	/var/www/u0128361/data/www/usatba-texno.ru/bitrix/modules/main/classes/general/module.php:475
+	/var/www/u0128361/data/www/usatba-texno.ru/bitrix/modules/sale/lib/notify.php:117
+	/var/www/u0128361/data/www/usatba-texno.ru/bitrix/modules/sale/lib/compatible/eventcompatibility.php:250
+----------
+Host: www.usatba-texno.ru
+Date: 2018-02-15 15:19:46
+Module: 
+, -, 
+    bxModifySaleMails < call_user_func_array < ExecuteModuleEventEx < Bitrix\Sale\Notify::sendOrderNew < Bitrix\Sale\Compatible\EventCompatibility::onOrderNewSendEmail
+	/var/www/u0128361/data/www/usatba-texno.ru/bitrix/modules/main/classes/general/module.php:475
+	/var/www/u0128361/data/www/usatba-texno.ru/bitrix/modules/sale/lib/notify.php:117
+	/var/www/u0128361/data/www/usatba-texno.ru/bitrix/modules/sale/lib/compatible/eventcompatibility.php:250
+----------
+Host: www.usatba-texno.ru
+Date: 2018-02-15 15:19:46
+Module: 
+false
+    bxModifySaleMails < call_user_func_array < ExecuteModuleEventEx < Bitrix\Sale\Notify::sendOrderNew < Bitrix\Sale\Compatible\EventCompatibility::onOrderNewSendEmail
+	/var/www/u0128361/data/www/usatba-texno.ru/bitrix/modules/main/classes/general/module.php:475
+	/var/www/u0128361/data/www/usatba-texno.ru/bitrix/modules/sale/lib/notify.php:117
+	/var/www/u0128361/data/www/usatba-texno.ru/bitrix/modules/sale/lib/compatible/eventcompatibility.php:250
+----------
+Host: www.usatba-texno.ru
+Date: 2018-02-15 15:19:46
+Module: 
+array (
+  'ORDER_ID' => 192,
+  'ORDER_DATE' => '15.02.2018 15:19:45',
+  'ORDER_USER' => 'Admin Admin',
+  'PRICE' => '0 руб.',
+  'BCC' => 'usatba-texno@mail.ru',
+  'EMAIL' => 'dev@dialweb.ru',
+  'ORDER_LIST' => '',
+  'SALE_EMAIL' => 'usatba-texno@mail.ru',
+  'DELIVERY_PRICE' => 0,
+  'PHONE' => '',
+  'DELIVERY_NAME' => '',
+  'PAY_SYSTEM_NAME' => 'Наличные',
+  'FULL_ADDRESS' => ', -, ',
+)
+    bxModifySaleMails < call_user_func_array < ExecuteModuleEventEx < Bitrix\Sale\Notify::sendOrderNew < Bitrix\Sale\Compatible\EventCompatibility::onOrderNewSendEmail
+	/var/www/u0128361/data/www/usatba-texno.ru/bitrix/modules/main/classes/general/module.php:475
+	/var/www/u0128361/data/www/usatba-texno.ru/bitrix/modules/sale/lib/notify.php:117
+	/var/www/u0128361/data/www/usatba-texno.ru/bitrix/modules/sale/lib/compatible/eventcompatibility.php:250
+----------
+Host: www.usatba-texno.ru
+Date: 2018-02-16 12:55:15
+Module: 
+array (
+  'PAY_SYSTEM_ID' => '1',
+  'PAYED' => 'N',
+  'DATE_PAYED' => NULL,
+  'EMP_PAYED_ID' => NULL,
+  'PS_STATUS' => NULL,
+  'PS_STATUS_CODE' => NULL,
+  'PS_STATUS_DESCRIPTION' => NULL,
+  'PS_STATUS_MESSAGE' => NULL,
+  'PS_SUM' => '0',
+  'PS_CURRENCY' => NULL,
+  'PS_RESPONSE_DATE' => NULL,
+  'DELIVERY_ID' => '2',
+  'PRICE_DELIVERY' => '0',
+  'ALLOW_DELIVERY' => 'N',
+  'DATE_ALLOW_DELIVERY' => NULL,
+  'EMP_ALLOW_DELIVERY_ID' => NULL,
+  'DATE_DEDUCTED' => NULL,
+  'EMP_DEDUCTED_ID' => NULL,
+  'REASON_UNDO_DEDUCTED' => NULL,
+  'TRACKING_NUMBER' => NULL,
+  'DELIVERY_DOC_NUM' => NULL,
+  'DELIVERY_DOC_DATE' => NULL,
+  'ID' => '193',
+  'LID' => 's1',
+  'ACCOUNT_NUMBER' => '193',
+  'DATE_INSERT' => '2018-02-16 12:55:15',
+  'DATE_UPDATE' => '2018-02-16 12:55:15',
+  'PERSON_TYPE_ID' => '1',
+  'USER_ID' => '117',
+  'DEDUCTED' => 'N',
+  'STATUS_ID' => 'N',
+  'DATE_STATUS' => '2018-02-16 12:55:15',
+  'EMP_STATUS_ID' => '117',
+  'MARKED' => 'N',
+  'DATE_MARKED' => NULL,
+  'EMP_MARKED_ID' => NULL,
+  'REASON_MARKED' => NULL,
+  'RESERVED' => 'N',
+  'PRICE' => '0',
+  'CURRENCY' => 'RUB',
+  'DISCOUNT_VALUE' => '0',
+  'TAX_VALUE' => '0.00',
+  'SUM_PAID' => '0.00',
+  'USER_DESCRIPTION' => NULL,
+  'PAY_VOUCHER_NUM' => NULL,
+  'PAY_VOUCHER_DATE' => NULL,
+  'ADDITIONAL_INFO' => NULL,
+  'COMMENTS' => 'Заказ в 1 клик. ',
+  'CREATED_BY' => '117',
+  'RESPONSIBLE_ID' => NULL,
+  'STAT_GID' => NULL,
+  'DATE_PAY_BEFORE' => NULL,
+  'DATE_BILL' => NULL,
+  'RECURRING_ID' => NULL,
+  'LOCKED_BY' => NULL,
+  'DATE_LOCK' => NULL,
+  'RECOUNT_FLAG' => 'Y',
+  'AFFILIATE_ID' => NULL,
+  'UPDATED_1C' => 'N',
+  'ORDER_TOPIC' => NULL,
+  'XML_ID' => NULL,
+  'ID_1C' => NULL,
+  'VERSION_1C' => NULL,
+  'VERSION' => '0',
+  'EXTERNAL_ORDER' => 'N',
+  'STORE_ID' => NULL,
+  'CANCELED' => 'N',
+  'EMP_CANCELED_ID' => NULL,
+  'DATE_CANCELED' => NULL,
+  'REASON_CANCELED' => NULL,
+  'BX_USER_ID' => NULL,
+  'DATE_INSERT_FORMAT' => '16.02.2018',
+  'DATE_UPDATE_SHORT' => '2018-02-16 00:00:00',
+  'DATE_STATUS_SHORT' => '2018-02-16 00:00:00',
+  'DATE_CANCELED_SHORT' => NULL,
+  'BY_RECOMMENDATION' => NULL,
+  'LOCK_STATUS' => 'green',
+  'LOCK_USER_NAME' => NULL,
+  'RESPONSIBLE_LOGIN' => NULL,
+  'RESPONSIBLE_NAME' => NULL,
+  'RESPONSIBLE_LAST_NAME' => NULL,
+  'RESPONSIBLE_SECOND_NAME' => NULL,
+  'RESPONSIBLE_EMAIL' => NULL,
+  'RESPONSIBLE_WORK_POSITION' => NULL,
+  'RESPONSIBLE_PERSONAL_PHOTO' => NULL,
+  'USER_LOGIN' => 'dev@dialweb.ru',
+  'USER_NAME' => 'Admin',
+  'USER_LAST_NAME' => 'Admin',
+  'USER_EMAIL' => 'dev@dialweb.ru',
+  'DATE_UPDATE_FORMAT' => '16.02.2018 12:55:15',
+  'DATE_STATUS_FORMAT' => '16.02.2018 12:55:15',
+)
+    bxModifySaleMails < call_user_func_array < ExecuteModuleEventEx < Bitrix\Sale\Notify::sendOrderNew < Bitrix\Sale\Compatible\EventCompatibility::onOrderNewSendEmail
+	/var/www/u0128361/data/www/usatba-texno.ru/bitrix/modules/main/classes/general/module.php:475
+	/var/www/u0128361/data/www/usatba-texno.ru/bitrix/modules/sale/lib/notify.php:117
+	/var/www/u0128361/data/www/usatba-texno.ru/bitrix/modules/sale/lib/compatible/eventcompatibility.php:250
+----------
+Host: www.usatba-texno.ru
+Date: 2018-02-16 12:55:15
+Module: 
+full_address
+    bxModifySaleMails < call_user_func_array < ExecuteModuleEventEx < Bitrix\Sale\Notify::sendOrderNew < Bitrix\Sale\Compatible\EventCompatibility::onOrderNewSendEmail
+	/var/www/u0128361/data/www/usatba-texno.ru/bitrix/modules/main/classes/general/module.php:475
+	/var/www/u0128361/data/www/usatba-texno.ru/bitrix/modules/sale/lib/notify.php:117
+	/var/www/u0128361/data/www/usatba-texno.ru/bitrix/modules/sale/lib/compatible/eventcompatibility.php:250
+----------
+Host: www.usatba-texno.ru
+Date: 2018-02-16 12:55:15
+Module: 
+, -, 
+    bxModifySaleMails < call_user_func_array < ExecuteModuleEventEx < Bitrix\Sale\Notify::sendOrderNew < Bitrix\Sale\Compatible\EventCompatibility::onOrderNewSendEmail
+	/var/www/u0128361/data/www/usatba-texno.ru/bitrix/modules/main/classes/general/module.php:475
+	/var/www/u0128361/data/www/usatba-texno.ru/bitrix/modules/sale/lib/notify.php:117
+	/var/www/u0128361/data/www/usatba-texno.ru/bitrix/modules/sale/lib/compatible/eventcompatibility.php:250
+----------
+Host: www.usatba-texno.ru
+Date: 2018-02-16 12:55:15
+Module: 
+arDeliv
+    bxModifySaleMails < call_user_func_array < ExecuteModuleEventEx < Bitrix\Sale\Notify::sendOrderNew < Bitrix\Sale\Compatible\EventCompatibility::onOrderNewSendEmail
+	/var/www/u0128361/data/www/usatba-texno.ru/bitrix/modules/main/classes/general/module.php:475
+	/var/www/u0128361/data/www/usatba-texno.ru/bitrix/modules/sale/lib/notify.php:117
+	/var/www/u0128361/data/www/usatba-texno.ru/bitrix/modules/sale/lib/compatible/eventcompatibility.php:250
+----------
+Host: www.usatba-texno.ru
+Date: 2018-02-16 12:55:15
+Module: 
+array (
+  'ID' => '2',
+  'NAME' => 'Самовывоз',
+  'ACTIVE' => 'Y',
+  'DESCRIPTION' => 'ул. Демидовская плотина, 13',
+  'SORT' => '200',
+  'LOGOTIP' => '974',
+  'CURRENCY' => 'RUB',
+  'TRACKING_PARAMS' => false,
+  'ALLOW_EDIT_SHIPMENT' => 'Y',
+  'LID' => '',
+  'WEIGHT_FROM' => '',
+  'WEIGHT_TO' => '',
+  'ORDER_PRICE_FROM' => '',
+  'ORDER_PRICE_TO' => '',
+  'ORDER_CURRENCY' => '',
+  'PERIOD_FROM' => '0',
+  'PERIOD_TO' => '0',
+  'PERIOD_TYPE' => 'D',
+  'PRICE' => 0,
+  'STORE' => '',
+)
+    bxModifySaleMails < call_user_func_array < ExecuteModuleEventEx < Bitrix\Sale\Notify::sendOrderNew < Bitrix\Sale\Compatible\EventCompatibility::onOrderNewSendEmail
+	/var/www/u0128361/data/www/usatba-texno.ru/bitrix/modules/main/classes/general/module.php:475
+	/var/www/u0128361/data/www/usatba-texno.ru/bitrix/modules/sale/lib/notify.php:117
+	/var/www/u0128361/data/www/usatba-texno.ru/bitrix/modules/sale/lib/compatible/eventcompatibility.php:250
+----------
+Host: www.usatba-texno.ru
+Date: 2018-02-16 12:55:15
+Module: 
+array (
+  'ORDER_ID' => 193,
+  'ORDER_DATE' => '16.02.2018 12:55:15',
+  'ORDER_USER' => 'Admin',
+  'PRICE' => '0 руб.',
+  'BCC' => 'usatba-texno@mail.ru',
+  'EMAIL' => 'dev@dialweb.ru',
+  'ORDER_LIST' => '',
+  'SALE_EMAIL' => 'usatba-texno@mail.ru',
+  'DELIVERY_PRICE' => 0,
+  'PHONE' => '+7 (111) 111-11-11',
+  'DELIVERY_NAME' => 'Самовывоз',
+  'PAY_SYSTEM_NAME' => 'Наличные',
+  'FULL_ADDRESS' => ', -, ',
+)
+    bxModifySaleMails < call_user_func_array < ExecuteModuleEventEx < Bitrix\Sale\Notify::sendOrderNew < Bitrix\Sale\Compatible\EventCompatibility::onOrderNewSendEmail
+	/var/www/u0128361/data/www/usatba-texno.ru/bitrix/modules/main/classes/general/module.php:475
+	/var/www/u0128361/data/www/usatba-texno.ru/bitrix/modules/sale/lib/notify.php:117
+	/var/www/u0128361/data/www/usatba-texno.ru/bitrix/modules/sale/lib/compatible/eventcompatibility.php:250
+----------
+Host: www.usatba-texno.ru
+Date: 2018-02-16 13:09:23
+Module: 
+array (
+  'PAY_SYSTEM_ID' => '1',
+  'PAYED' => 'N',
+  'DATE_PAYED' => NULL,
+  'EMP_PAYED_ID' => NULL,
+  'PS_STATUS' => NULL,
+  'PS_STATUS_CODE' => NULL,
+  'PS_STATUS_DESCRIPTION' => NULL,
+  'PS_STATUS_MESSAGE' => NULL,
+  'PS_SUM' => '0',
+  'PS_CURRENCY' => NULL,
+  'PS_RESPONSE_DATE' => NULL,
+  'DELIVERY_ID' => '2',
+  'PRICE_DELIVERY' => '0',
+  'ALLOW_DELIVERY' => 'N',
+  'DATE_ALLOW_DELIVERY' => NULL,
+  'EMP_ALLOW_DELIVERY_ID' => NULL,
+  'DATE_DEDUCTED' => NULL,
+  'EMP_DEDUCTED_ID' => NULL,
+  'REASON_UNDO_DEDUCTED' => NULL,
+  'TRACKING_NUMBER' => NULL,
+  'DELIVERY_DOC_NUM' => NULL,
+  'DELIVERY_DOC_DATE' => NULL,
+  'ID' => '194',
+  'LID' => 's1',
+  'ACCOUNT_NUMBER' => '194',
+  'DATE_INSERT' => '2018-02-16 13:09:22',
+  'DATE_UPDATE' => '2018-02-16 13:09:22',
+  'PERSON_TYPE_ID' => '1',
+  'USER_ID' => '117',
+  'DEDUCTED' => 'N',
+  'STATUS_ID' => 'N',
+  'DATE_STATUS' => '2018-02-16 13:09:22',
+  'EMP_STATUS_ID' => '117',
+  'MARKED' => 'N',
+  'DATE_MARKED' => NULL,
+  'EMP_MARKED_ID' => NULL,
+  'REASON_MARKED' => NULL,
+  'RESERVED' => 'N',
+  'PRICE' => '40',
+  'CURRENCY' => 'RUB',
+  'DISCOUNT_VALUE' => '0',
+  'TAX_VALUE' => '0.00',
+  'SUM_PAID' => '0.00',
+  'USER_DESCRIPTION' => NULL,
+  'PAY_VOUCHER_NUM' => NULL,
+  'PAY_VOUCHER_DATE' => NULL,
+  'ADDITIONAL_INFO' => NULL,
+  'COMMENTS' => 'Заказ в 1 клик. ',
+  'CREATED_BY' => '117',
+  'RESPONSIBLE_ID' => NULL,
+  'STAT_GID' => NULL,
+  'DATE_PAY_BEFORE' => NULL,
+  'DATE_BILL' => NULL,
+  'RECURRING_ID' => NULL,
+  'LOCKED_BY' => NULL,
+  'DATE_LOCK' => NULL,
+  'RECOUNT_FLAG' => 'Y',
+  'AFFILIATE_ID' => NULL,
+  'UPDATED_1C' => 'N',
+  'ORDER_TOPIC' => NULL,
+  'XML_ID' => NULL,
+  'ID_1C' => NULL,
+  'VERSION_1C' => NULL,
+  'VERSION' => '0',
+  'EXTERNAL_ORDER' => 'N',
+  'STORE_ID' => NULL,
+  'CANCELED' => 'N',
+  'EMP_CANCELED_ID' => NULL,
+  'DATE_CANCELED' => NULL,
+  'REASON_CANCELED' => NULL,
+  'BX_USER_ID' => NULL,
+  'DATE_INSERT_FORMAT' => '16.02.2018',
+  'DATE_UPDATE_SHORT' => '2018-02-16 00:00:00',
+  'DATE_STATUS_SHORT' => '2018-02-16 00:00:00',
+  'DATE_CANCELED_SHORT' => NULL,
+  'BY_RECOMMENDATION' => 'N',
+  'LOCK_STATUS' => 'green',
+  'LOCK_USER_NAME' => NULL,
+  'RESPONSIBLE_LOGIN' => NULL,
+  'RESPONSIBLE_NAME' => NULL,
+  'RESPONSIBLE_LAST_NAME' => NULL,
+  'RESPONSIBLE_SECOND_NAME' => NULL,
+  'RESPONSIBLE_EMAIL' => NULL,
+  'RESPONSIBLE_WORK_POSITION' => NULL,
+  'RESPONSIBLE_PERSONAL_PHOTO' => NULL,
+  'USER_LOGIN' => 'dev@dialweb.ru',
+  'USER_NAME' => 'Admin',
+  'USER_LAST_NAME' => 'Admin',
+  'USER_EMAIL' => 'dev@dialweb.ru',
+  'DATE_UPDATE_FORMAT' => '16.02.2018 13:09:22',
+  'DATE_STATUS_FORMAT' => '16.02.2018 13:09:22',
+)
+    bxModifySaleMails < call_user_func_array < ExecuteModuleEventEx < Bitrix\Sale\Notify::sendOrderNew < Bitrix\Sale\Compatible\EventCompatibility::onOrderNewSendEmail
+	/var/www/u0128361/data/www/usatba-texno.ru/bitrix/modules/main/classes/general/module.php:475
+	/var/www/u0128361/data/www/usatba-texno.ru/bitrix/modules/sale/lib/notify.php:117
+	/var/www/u0128361/data/www/usatba-texno.ru/bitrix/modules/sale/lib/compatible/eventcompatibility.php:250
+----------
+Host: www.usatba-texno.ru
+Date: 2018-02-16 13:09:23
+Module: 
+full_address
+    bxModifySaleMails < call_user_func_array < ExecuteModuleEventEx < Bitrix\Sale\Notify::sendOrderNew < Bitrix\Sale\Compatible\EventCompatibility::onOrderNewSendEmail
+	/var/www/u0128361/data/www/usatba-texno.ru/bitrix/modules/main/classes/general/module.php:475
+	/var/www/u0128361/data/www/usatba-texno.ru/bitrix/modules/sale/lib/notify.php:117
+	/var/www/u0128361/data/www/usatba-texno.ru/bitrix/modules/sale/lib/compatible/eventcompatibility.php:250
+----------
+Host: www.usatba-texno.ru
+Date: 2018-02-16 13:09:23
+Module: 
+, -, 
+    bxModifySaleMails < call_user_func_array < ExecuteModuleEventEx < Bitrix\Sale\Notify::sendOrderNew < Bitrix\Sale\Compatible\EventCompatibility::onOrderNewSendEmail
+	/var/www/u0128361/data/www/usatba-texno.ru/bitrix/modules/main/classes/general/module.php:475
+	/var/www/u0128361/data/www/usatba-texno.ru/bitrix/modules/sale/lib/notify.php:117
+	/var/www/u0128361/data/www/usatba-texno.ru/bitrix/modules/sale/lib/compatible/eventcompatibility.php:250
+----------
+Host: www.usatba-texno.ru
+Date: 2018-02-16 13:09:23
+Module: 
+arDeliv
+    bxModifySaleMails < call_user_func_array < ExecuteModuleEventEx < Bitrix\Sale\Notify::sendOrderNew < Bitrix\Sale\Compatible\EventCompatibility::onOrderNewSendEmail
+	/var/www/u0128361/data/www/usatba-texno.ru/bitrix/modules/main/classes/general/module.php:475
+	/var/www/u0128361/data/www/usatba-texno.ru/bitrix/modules/sale/lib/notify.php:117
+	/var/www/u0128361/data/www/usatba-texno.ru/bitrix/modules/sale/lib/compatible/eventcompatibility.php:250
+----------
+Host: www.usatba-texno.ru
+Date: 2018-02-16 13:09:23
+Module: 
+array (
+  'ID' => '2',
+  'NAME' => 'Самовывоз',
+  'ACTIVE' => 'Y',
+  'DESCRIPTION' => 'ул. Демидовская плотина, 13',
+  'SORT' => '200',
+  'LOGOTIP' => '974',
+  'CURRENCY' => 'RUB',
+  'TRACKING_PARAMS' => false,
+  'ALLOW_EDIT_SHIPMENT' => 'Y',
+  'LID' => '',
+  'WEIGHT_FROM' => '',
+  'WEIGHT_TO' => '',
+  'ORDER_PRICE_FROM' => '',
+  'ORDER_PRICE_TO' => '',
+  'ORDER_CURRENCY' => '',
+  'PERIOD_FROM' => '0',
+  'PERIOD_TO' => '0',
+  'PERIOD_TYPE' => 'D',
+  'PRICE' => 0,
+  'STORE' => '',
+)
+    bxModifySaleMails < call_user_func_array < ExecuteModuleEventEx < Bitrix\Sale\Notify::sendOrderNew < Bitrix\Sale\Compatible\EventCompatibility::onOrderNewSendEmail
+	/var/www/u0128361/data/www/usatba-texno.ru/bitrix/modules/main/classes/general/module.php:475
+	/var/www/u0128361/data/www/usatba-texno.ru/bitrix/modules/sale/lib/notify.php:117
+	/var/www/u0128361/data/www/usatba-texno.ru/bitrix/modules/sale/lib/compatible/eventcompatibility.php:250
+----------
+Host: www.usatba-texno.ru
+Date: 2018-02-16 13:09:23
+Module: 
+array (
+  'ORDER_ID' => 194,
+  'ORDER_DATE' => '16.02.2018 13:09:22',
+  'ORDER_USER' => 'Admin',
+  'PRICE' => '40 руб.',
+  'BCC' => 'usatba-texno@mail.ru',
+  'EMAIL' => 'dev@dialweb.ru',
+  'ORDER_LIST' => 'Спица Дельта - 2 : 20 руб.
+',
+  'SALE_EMAIL' => 'usatba-texno@mail.ru',
+  'DELIVERY_PRICE' => 0,
+  'PHONE' => '+7 (111) 111-11-11',
+  'DELIVERY_NAME' => 'Самовывоз',
+  'PAY_SYSTEM_NAME' => 'Наличные',
+  'FULL_ADDRESS' => ', -, ',
+)
+    bxModifySaleMails < call_user_func_array < ExecuteModuleEventEx < Bitrix\Sale\Notify::sendOrderNew < Bitrix\Sale\Compatible\EventCompatibility::onOrderNewSendEmail
+	/var/www/u0128361/data/www/usatba-texno.ru/bitrix/modules/main/classes/general/module.php:475
+	/var/www/u0128361/data/www/usatba-texno.ru/bitrix/modules/sale/lib/notify.php:117
+	/var/www/u0128361/data/www/usatba-texno.ru/bitrix/modules/sale/lib/compatible/eventcompatibility.php:250
+----------
+Host: www.usatba-texno.ru
+Date: 2018-02-16 13:12:03
+Module: 
+array (
+  'PAY_SYSTEM_ID' => '1',
+  'PAYED' => 'N',
+  'DATE_PAYED' => NULL,
+  'EMP_PAYED_ID' => NULL,
+  'PS_STATUS' => NULL,
+  'PS_STATUS_CODE' => NULL,
+  'PS_STATUS_DESCRIPTION' => NULL,
+  'PS_STATUS_MESSAGE' => NULL,
+  'PS_SUM' => '0',
+  'PS_CURRENCY' => NULL,
+  'PS_RESPONSE_DATE' => NULL,
+  'DELIVERY_ID' => '2',
+  'PRICE_DELIVERY' => '0',
+  'ALLOW_DELIVERY' => 'N',
+  'DATE_ALLOW_DELIVERY' => NULL,
+  'EMP_ALLOW_DELIVERY_ID' => NULL,
+  'DATE_DEDUCTED' => NULL,
+  'EMP_DEDUCTED_ID' => NULL,
+  'REASON_UNDO_DEDUCTED' => NULL,
+  'TRACKING_NUMBER' => NULL,
+  'DELIVERY_DOC_NUM' => NULL,
+  'DELIVERY_DOC_DATE' => NULL,
+  'ID' => '195',
+  'LID' => 's1',
+  'ACCOUNT_NUMBER' => '195',
+  'DATE_INSERT' => '2018-02-16 13:12:03',
+  'DATE_UPDATE' => '2018-02-16 13:12:03',
+  'PERSON_TYPE_ID' => '1',
+  'USER_ID' => '579',
+  'DEDUCTED' => 'N',
+  'STATUS_ID' => 'N',
+  'DATE_STATUS' => '2018-02-16 13:12:03',
+  'EMP_STATUS_ID' => NULL,
+  'MARKED' => 'N',
+  'DATE_MARKED' => NULL,
+  'EMP_MARKED_ID' => NULL,
+  'REASON_MARKED' => NULL,
+  'RESERVED' => 'N',
+  'PRICE' => '20',
+  'CURRENCY' => 'RUB',
+  'DISCOUNT_VALUE' => '0',
+  'TAX_VALUE' => '0.00',
+  'SUM_PAID' => '0.00',
+  'USER_DESCRIPTION' => NULL,
+  'PAY_VOUCHER_NUM' => NULL,
+  'PAY_VOUCHER_DATE' => NULL,
+  'ADDITIONAL_INFO' => NULL,
+  'COMMENTS' => 'Заказ в 1 клик. ',
+  'CREATED_BY' => NULL,
+  'RESPONSIBLE_ID' => NULL,
+  'STAT_GID' => NULL,
+  'DATE_PAY_BEFORE' => NULL,
+  'DATE_BILL' => NULL,
+  'RECURRING_ID' => NULL,
+  'LOCKED_BY' => NULL,
+  'DATE_LOCK' => NULL,
+  'RECOUNT_FLAG' => 'Y',
+  'AFFILIATE_ID' => NULL,
+  'UPDATED_1C' => 'N',
+  'ORDER_TOPIC' => NULL,
+  'XML_ID' => NULL,
+  'ID_1C' => NULL,
+  'VERSION_1C' => NULL,
+  'VERSION' => '0',
+  'EXTERNAL_ORDER' => 'N',
+  'STORE_ID' => NULL,
+  'CANCELED' => 'N',
+  'EMP_CANCELED_ID' => NULL,
+  'DATE_CANCELED' => NULL,
+  'REASON_CANCELED' => NULL,
+  'BX_USER_ID' => NULL,
+  'DATE_INSERT_FORMAT' => '16.02.2018',
+  'DATE_UPDATE_SHORT' => '2018-02-16 00:00:00',
+  'DATE_STATUS_SHORT' => '2018-02-16 00:00:00',
+  'DATE_CANCELED_SHORT' => NULL,
+  'BY_RECOMMENDATION' => 'N',
+  'LOCK_STATUS' => 'green',
+  'LOCK_USER_NAME' => NULL,
+  'RESPONSIBLE_LOGIN' => NULL,
+  'RESPONSIBLE_NAME' => NULL,
+  'RESPONSIBLE_LAST_NAME' => NULL,
+  'RESPONSIBLE_SECOND_NAME' => NULL,
+  'RESPONSIBLE_EMAIL' => NULL,
+  'RESPONSIBLE_WORK_POSITION' => NULL,
+  'RESPONSIBLE_PERSONAL_PHOTO' => NULL,
+  'USER_LOGIN' => 'imtestorder@imtestorder.imtestorder',
+  'USER_NAME' => NULL,
+  'USER_LAST_NAME' => 'imtestorder',
+  'USER_EMAIL' => 'imtestorder@imtestorder.imtestorder',
+  'DATE_UPDATE_FORMAT' => '16.02.2018 13:12:03',
+  'DATE_STATUS_FORMAT' => '16.02.2018 13:12:03',
+)
+    bxModifySaleMails < call_user_func_array < ExecuteModuleEventEx < Bitrix\Sale\Notify::sendOrderNew < Bitrix\Sale\Compatible\EventCompatibility::onOrderNewSendEmail
+	/var/www/u0128361/data/www/usatba-texno.ru/bitrix/modules/main/classes/general/module.php:475
+	/var/www/u0128361/data/www/usatba-texno.ru/bitrix/modules/sale/lib/notify.php:117
+	/var/www/u0128361/data/www/usatba-texno.ru/bitrix/modules/sale/lib/compatible/eventcompatibility.php:250
+----------
+Host: www.usatba-texno.ru
+Date: 2018-02-16 13:12:03
+Module: 
+full_address
+    bxModifySaleMails < call_user_func_array < ExecuteModuleEventEx < Bitrix\Sale\Notify::sendOrderNew < Bitrix\Sale\Compatible\EventCompatibility::onOrderNewSendEmail
+	/var/www/u0128361/data/www/usatba-texno.ru/bitrix/modules/main/classes/general/module.php:475
+	/var/www/u0128361/data/www/usatba-texno.ru/bitrix/modules/sale/lib/notify.php:117
+	/var/www/u0128361/data/www/usatba-texno.ru/bitrix/modules/sale/lib/compatible/eventcompatibility.php:250
+----------
+Host: www.usatba-texno.ru
+Date: 2018-02-16 13:12:03
+Module: 
+, -, 
+    bxModifySaleMails < call_user_func_array < ExecuteModuleEventEx < Bitrix\Sale\Notify::sendOrderNew < Bitrix\Sale\Compatible\EventCompatibility::onOrderNewSendEmail
+	/var/www/u0128361/data/www/usatba-texno.ru/bitrix/modules/main/classes/general/module.php:475
+	/var/www/u0128361/data/www/usatba-texno.ru/bitrix/modules/sale/lib/notify.php:117
+	/var/www/u0128361/data/www/usatba-texno.ru/bitrix/modules/sale/lib/compatible/eventcompatibility.php:250
+----------
+Host: www.usatba-texno.ru
+Date: 2018-02-16 13:12:03
+Module: 
+arDeliv
+    bxModifySaleMails < call_user_func_array < ExecuteModuleEventEx < Bitrix\Sale\Notify::sendOrderNew < Bitrix\Sale\Compatible\EventCompatibility::onOrderNewSendEmail
+	/var/www/u0128361/data/www/usatba-texno.ru/bitrix/modules/main/classes/general/module.php:475
+	/var/www/u0128361/data/www/usatba-texno.ru/bitrix/modules/sale/lib/notify.php:117
+	/var/www/u0128361/data/www/usatba-texno.ru/bitrix/modules/sale/lib/compatible/eventcompatibility.php:250
+----------
+Host: www.usatba-texno.ru
+Date: 2018-02-16 13:12:03
+Module: 
+array (
+  'ID' => '2',
+  'NAME' => 'Самовывоз',
+  'ACTIVE' => 'Y',
+  'DESCRIPTION' => 'ул. Демидовская плотина, 13',
+  'SORT' => '200',
+  'LOGOTIP' => '974',
+  'CURRENCY' => 'RUB',
+  'TRACKING_PARAMS' => false,
+  'ALLOW_EDIT_SHIPMENT' => 'Y',
+  'LID' => '',
+  'WEIGHT_FROM' => '',
+  'WEIGHT_TO' => '',
+  'ORDER_PRICE_FROM' => '',
+  'ORDER_PRICE_TO' => '',
+  'ORDER_CURRENCY' => '',
+  'PERIOD_FROM' => '0',
+  'PERIOD_TO' => '0',
+  'PERIOD_TYPE' => 'D',
+  'PRICE' => 0,
+  'STORE' => '',
+)
+    bxModifySaleMails < call_user_func_array < ExecuteModuleEventEx < Bitrix\Sale\Notify::sendOrderNew < Bitrix\Sale\Compatible\EventCompatibility::onOrderNewSendEmail
+	/var/www/u0128361/data/www/usatba-texno.ru/bitrix/modules/main/classes/general/module.php:475
+	/var/www/u0128361/data/www/usatba-texno.ru/bitrix/modules/sale/lib/notify.php:117
+	/var/www/u0128361/data/www/usatba-texno.ru/bitrix/modules/sale/lib/compatible/eventcompatibility.php:250
+----------
+Host: www.usatba-texno.ru
+Date: 2018-02-16 13:12:03
+Module: 
+array (
+  'ORDER_ID' => 195,
+  'ORDER_DATE' => '16.02.2018 13:12:03',
+  'ORDER_USER' => 'imtestorder',
+  'PRICE' => '20 руб.',
+  'BCC' => 'usatba-texno@mail.ru',
+  'EMAIL' => 'imtestorder@imtestorder.imtestorder',
+  'ORDER_LIST' => 'Спица Дельта - 1 : 20 руб.
+',
+  'SALE_EMAIL' => 'usatba-texno@mail.ru',
+  'DELIVERY_PRICE' => 0,
+  'PHONE' => '911111111',
+  'DELIVERY_NAME' => 'Самовывоз',
+  'PAY_SYSTEM_NAME' => 'Наличные',
+  'FULL_ADDRESS' => ', -, ',
+)
+    bxModifySaleMails < call_user_func_array < ExecuteModuleEventEx < Bitrix\Sale\Notify::sendOrderNew < Bitrix\Sale\Compatible\EventCompatibility::onOrderNewSendEmail
+	/var/www/u0128361/data/www/usatba-texno.ru/bitrix/modules/main/classes/general/module.php:475
+	/var/www/u0128361/data/www/usatba-texno.ru/bitrix/modules/sale/lib/notify.php:117
+	/var/www/u0128361/data/www/usatba-texno.ru/bitrix/modules/sale/lib/compatible/eventcompatibility.php:250
+----------
+Host: www.usatba-texno.ru
+Date: 2018-09-09 15:08:03
+Module: main
+FILE: /var/www/u0128361/data/www/usatba-texno.ru/bitrix/modules/main/classes/general/user.php<br> LINE: 2501 MySql Query Error: SELECT G.SECURITY_POLICY FROM b_group G WHERE G.ID=2 [[] ]
+    CDatabaseMysql::Query < CAllUser::GetGroupPolicy < CAllUser::GetSecurityPolicy < require_once < require_once
+	/var/www/u0128361/data/www/usatba-texno.ru/bitrix/modules/main/classes/general/user.php:2501
+	/var/www/u0128361/data/www/usatba-texno.ru/bitrix/modules/main/classes/general/user.php:52
+	/var/www/u0128361/data/www/usatba-texno.ru/bitrix/modules/main/include.php:295
+	/var/www/u0128361/data/www/usatba-texno.ru/bitrix/modules/main/include/prolog_before.php:14
+	/var/www/u0128361/data/www/usatba-texno.ru/bitrix/modules/main/include/prolog.php:10
+----------
+Host: www.usatba-texno.ru
+Date: 2018-09-09 15:08:05
+Module: main
+File: /var/www/u0128361/data/www/usatba-texno.ru/bitrix/modules/main/classes/mysql/short_uri.php<br>Line: 147 MySql Query Error: SELECT ID, URI, URI_CRC, SHORT_URI, SHORT_URI_CRC, STATUS, DATE_FORMAT(MODIFIED, '%d.%m.%Y %H:%i:%s') MODIFIED, MODIFIED MODIFIED1, DATE_FORMAT(LAST_USED, '%d.%m.%Y %H:%i:%s') LAST_USED, LAST_USED LAST_USED1, NUMBER_USED FROM b_short_uri U WHERE (U.SHORT_URI_CRC=-1689791037) [[] ]
+    CDatabaseMysql::Query < CBXShortUri::GetList < CBXAllShortUri::GetUri < CBXAllShortUri::CheckUri < require_once
+	/var/www/u0128361/data/www/usatba-texno.ru/bitrix/modules/main/classes/mysql/short_uri.php:147
+	/var/www/u0128361/data/www/usatba-texno.ru/bitrix/modules/main/classes/general/short_uri.php:95
+	/var/www/u0128361/data/www/usatba-texno.ru/bitrix/modules/main/classes/general/short_uri.php:280
+	/var/www/u0128361/data/www/usatba-texno.ru/bitrix/modules/main/include.php:560
+	/var/www/u0128361/data/www/usatba-texno.ru/bitrix/modules/main/include/prolog_before.php:14
+----------
+Host: www.usatba-texno.ru
+Date: 2018-09-25 00:01:34
+Module: main
+FILE: /var/www/u0128361/data/www/usatba-texno.ru/bitrix/modules/iblock/classes/mysql/iblocksection.php<br> LINE: 417 MySql Query Error: SELECT DISTINCT 
+				BS.*,
+				B.LIST_PAGE_URL,
+				B.SECTION_PAGE_URL,
+				B.IBLOCK_TYPE_ID,
+				B.CODE as IBLOCK_CODE,
+				B.XML_ID as IBLOCK_EXTERNAL_ID,
+				BS.XML_ID as EXTERNAL_ID,
+				DATE_FORMAT(BS.TIMESTAMP_X, '%d.%m.%Y %H:%i:%s') as TIMESTAMP_X,
+				DATE_FORMAT(BS.DATE_CREATE, '%d.%m.%Y %H:%i:%s') as DATE_CREATE
+			,COUNT(DISTINCT BE.ID) as ELEMENT_CNT
+				FROM b_iblock_section BS
+					INNER JOIN b_iblock B ON BS.IBLOCK_ID = B.ID
+					
+					INNER JOIN b_iblock_section BSTEMP ON BSTEMP.IBLOCK_ID = BS.IBLOCK_ID
+						LEFT JOIN b_iblock_section_element BSE ON BSE.IBLOCK_SECTION_ID=BSTEMP.ID 
+					LEFT JOIN b_iblock_element BE ON (BSE.IBLOCK_ELEMENT_ID=BE.ID
+						AND ((BE.WF_STATUS_ID=1 AND BE.WF_PARENT_ELEMENT_ID IS NULL )
+						AND BE.IBLOCK_ID = BS.IBLOCK_ID
+				)
+				)
+					
+				WHERE 1=1
+					AND BSTEMP.IBLOCK_ID = BS.IBLOCK_ID
+						AND BSTEMP.LEFT_MARGIN >= BS.LEFT_MARGIN
+						AND BSTEMP.RIGHT_MARGIN <= BS.RIGHT_MARGIN
+						
+					
+				
+				AND  ((((BS.IBLOCK_SECTION_ID = '399')))) 
+				AND  ((
+				B.ID IN (
+			SELECT IBLOCK_ID
+			FROM b_iblock_group IBG
+			WHERE IBG.GROUP_ID IN (2)
+			AND IBG.PERMISSION >= 'R'
+		
+				AND (IBG.PERMISSION='X' OR B.ACTIVE='Y')
+			)
+				OR (B.RIGHTS_MODE = 'E' AND EXISTS (
+				SELECT SR.SECTION_ID
+				FROM b_iblock_section_right SR
+				INNER JOIN b_iblock_right IBR ON IBR.ID = SR.RIGHT_ID
+				INNER JOIN b_user_access UA ON UA.ACCESS_CODE = IBR.GROUP_CODE AND UA.USER_ID = 0
+				WHERE SR.SECTION_ID = BS.ID
+				AND IBR.OP_SREAD = 'Y'
+				
+			))
+			)) 
+			GROUP BY BS.ID, B.ID
+				ORDER BY  BS.SORT asc  [[1317] Query execution was interrupted]
+    CDatabaseMysql::Query < CIBlockSection::GetList < reqursion_excluding < reqursion_excluding < reqursion_excluding
+	/var/www/u0128361/data/www/usatba-texno.ru/bitrix/modules/iblock/classes/mysql/iblocksection.php:417
+	/var/www/u0128361/data/www/usatba-texno.ru/local/templates/.default/components/bitrix/catalog/catalog/section.php:147
+	/var/www/u0128361/data/www/usatba-texno.ru/local/templates/.default/components/bitrix/catalog/catalog/section.php:150
+	/var/www/u0128361/data/www/usatba-texno.ru/local/templates/.default/components/bitrix/catalog/catalog/section.php:150
+	/var/www/u0128361/data/www/usatba-texno.ru/local/templates/.default/components/bitrix/catalog/catalog/section.php:163
+----------
+Host: www.usatba-texno.ru
+Date: 2018-12-27 00:05:05
+Module: main
+ MySql Query Error: 
+			SELECT 'x'
+			FROM b_agent
+			WHERE
+				ACTIVE = 'Y'
+				AND NEXT_EXEC <= now()
+				AND (DATE_CHECK IS NULL OR DATE_CHECK <= now())
+				
+			LIMIT 1
+		 [[] ]
+    CDatabaseMysql::Query < CAgent::ExecuteAgents < CAgent::CheckAgents < require_once < require_once
+	/var/www/u0128361/data/www/usatba-texno.ru/bitrix/modules/main/classes/mysql/agent.php:75
+	/var/www/u0128361/data/www/usatba-texno.ru/bitrix/modules/main/classes/mysql/agent.php:40
+	/var/www/u0128361/data/www/usatba-texno.ru/bitrix/modules/main/include.php:264
+	/var/www/u0128361/data/www/usatba-texno.ru/bitrix/modules/main/include/prolog_before.php:14
+	/var/www/u0128361/data/www/usatba-texno.ru/bitrix/modules/main/include/prolog.php:10
+----------
+Host: www.usatba-texno.ru
+Date: 2018-12-27 00:06:33
+Module: main
+ MySql Query Error: 
+			SELECT 'x'
+			FROM b_agent
+			WHERE
+				ACTIVE = 'Y'
+				AND NEXT_EXEC <= now()
+				AND (DATE_CHECK IS NULL OR DATE_CHECK <= now())
+				
+			LIMIT 1
+		 [[] ]
+    CDatabaseMysql::Query < CAgent::ExecuteAgents < CAgent::CheckAgents < require_once < require_once
+	/var/www/u0128361/data/www/usatba-texno.ru/bitrix/modules/main/classes/mysql/agent.php:75
+	/var/www/u0128361/data/www/usatba-texno.ru/bitrix/modules/main/classes/mysql/agent.php:40
+	/var/www/u0128361/data/www/usatba-texno.ru/bitrix/modules/main/include.php:264
+	/var/www/u0128361/data/www/usatba-texno.ru/bitrix/modules/main/include/prolog_before.php:14
+	/var/www/u0128361/data/www/usatba-texno.ru/bitrix/modules/main/include/prolog.php:10
+----------
+Host: www.usatba-texno.ru
+Date: 2018-12-27 00:08:16
+Module: main
+ MySql Query Error: 
+			SELECT 'x'
+			FROM b_agent
+			WHERE
+				ACTIVE = 'Y'
+				AND NEXT_EXEC <= now()
+				AND (DATE_CHECK IS NULL OR DATE_CHECK <= now())
+				
+			LIMIT 1
+		 [[] ]
+    CDatabaseMysql::Query < CAgent::ExecuteAgents < CAgent::CheckAgents < require_once < require_once
+	/var/www/u0128361/data/www/usatba-texno.ru/bitrix/modules/main/classes/mysql/agent.php:75
+	/var/www/u0128361/data/www/usatba-texno.ru/bitrix/modules/main/classes/mysql/agent.php:40
+	/var/www/u0128361/data/www/usatba-texno.ru/bitrix/modules/main/include.php:264
+	/var/www/u0128361/data/www/usatba-texno.ru/bitrix/modules/main/include/prolog_before.php:14
+	/var/www/u0128361/data/www/usatba-texno.ru/bitrix/modules/main/include/prolog.php:10
+----------
+Host: www.usatba-texno.ru
+Date: 2018-12-27 00:09:30
+Module: main
+ MySql Query Error: 
+			SELECT 'x'
+			FROM b_agent
+			WHERE
+				ACTIVE = 'Y'
+				AND NEXT_EXEC <= now()
+				AND (DATE_CHECK IS NULL OR DATE_CHECK <= now())
+				
+			LIMIT 1
+		 [[] ]
+    CDatabaseMysql::Query < CAgent::ExecuteAgents < CAgent::CheckAgents < require_once < require_once
+	/var/www/u0128361/data/www/usatba-texno.ru/bitrix/modules/main/classes/mysql/agent.php:75
+	/var/www/u0128361/data/www/usatba-texno.ru/bitrix/modules/main/classes/mysql/agent.php:40
+	/var/www/u0128361/data/www/usatba-texno.ru/bitrix/modules/main/include.php:264
+	/var/www/u0128361/data/www/usatba-texno.ru/bitrix/modules/main/include/prolog_before.php:14
+	/var/www/u0128361/data/www/usatba-texno.ru/bitrix/modules/main/include/prolog.php:10
+----------
+Host: www.usatba-texno.ru
+Date: 2018-12-27 00:09:57
+Module: main
+ MySql Query Error: 
+			SELECT 'x'
+			FROM b_agent
+			WHERE
+				ACTIVE = 'Y'
+				AND NEXT_EXEC <= now()
+				AND (DATE_CHECK IS NULL OR DATE_CHECK <= now())
+				
+			LIMIT 1
+		 [[] ]
+    CDatabaseMysql::Query < CAgent::ExecuteAgents < CAgent::CheckAgents < require_once < require
+	/var/www/u0128361/data/www/usatba-texno.ru/bitrix/modules/main/classes/mysql/agent.php:75
+	/var/www/u0128361/data/www/usatba-texno.ru/bitrix/modules/main/classes/mysql/agent.php:40
+	/var/www/u0128361/data/www/usatba-texno.ru/bitrix/modules/main/include.php:264
+	/var/www/u0128361/data/www/usatba-texno.ru/bitrix/modules/main/include/prolog_before.php:14
+	/var/www/u0128361/data/www/usatba-texno.ru/sitemap.php:5
+----------
+Host: www.usatba-texno.ru
+Date: 2019-12-02 12:56:14
+Module: main
+ MySql Query Error: 
+					UPDATE b_iblock_property_enum
+					SET
+						 DEF = 'Y', 
+						 SORT = 500, 
+						 XML_ID = 'TRUE', 
+						VALUE = 'Со скидкой'
+					WHERE
+						ID = 214
+				 [[1062] Duplicate entry '606-TRUE' for key 'ux_iblock_property_enum']
+    CDatabaseMysql::Query < CAllIBlockProperty::UpdateEnum < CAllIBlockProperty::Update < require
+	/var/www/u0128361/data/www/usatba-texno.ru/bitrix/modules/iblock/classes/general/iblockproperty.php:918
+	/var/www/u0128361/data/www/usatba-texno.ru/bitrix/modules/iblock/classes/general/iblockproperty.php:549
+	/var/www/u0128361/data/www/usatba-texno.ru/bitrix/modules/iblock/admin/iblock_edit.php:803
+	/var/www/u0128361/data/www/usatba-texno.ru/bitrix/admin/iblock_edit.php:1
+----------
+Host: www.usatba-texno.ru
+Date: 2019-12-25 12:07:06
+Module: main
+<br>Class: CAllTask<br>File: /var/www/u0128361/data/www/usatba-texno.ru/bitrix/modules/main/classes/general/user.php<br>Function: GetList<br>Line: 4808 MySql Query Error: 
+			SELECT
+				T.ID, T.NAME, T.DESCRIPTION, T.MODULE_ID, T.LETTER, T.SYS, T.BINDING
+			FROM
+				b_task T
+			WHERE
+				(1=1
+					AND
+					(
+						( 
+					(T.LETTER='R' and T.LETTER is not null)
+					 )
+					)
+					
+					AND
+					(
+						( 
+					(T.MODULE_ID='main' and T.MODULE_ID is not null)
+					 )
+					)
+					
+					AND
+					(
+						( 
+					(T.BINDING='file' and T.BINDING is not null)
+					 )
+					)
+					
+					AND
+					(
+						( 
+					(T.SYS='Y' and T.SYS is not null)
+					 )
+					)
+					)
+			 [[2014] Commands out of sync; you can't run this command now]
+    CDatabaseMysql::Query < CAllTask::GetList < CAllTask::GetIdByLetter < CAllMain::GetFileAccessPermission < CAllUser::GetFileOperations
+	/var/www/u0128361/data/www/usatba-texno.ru/bitrix/modules/main/classes/general/user.php:4808
+	/var/www/u0128361/data/www/usatba-texno.ru/bitrix/modules/main/classes/general/user.php:5085
+	/var/www/u0128361/data/www/usatba-texno.ru/bitrix/modules/main/classes/general/main.php:1857
+	/var/www/u0128361/data/www/usatba-texno.ru/bitrix/modules/main/classes/general/user.php:3126
+	/var/www/u0128361/data/www/usatba-texno.ru/bitrix/modules/main/public/top_panel.php:450
+----------

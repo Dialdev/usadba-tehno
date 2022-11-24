@@ -1,0 +1,45 @@
+label[data-role="label_arrFilter_296_4097756445"] {
+    display: none;
+}
+
+
+.news-1 .image img{
+    
+    width: 80%;
+    margin-left: 5%;
+
+	height: auto;
+
+    object-fit: contain;
+}
+.index-info {
+    margin-top: 45px;
+}
+
+.top .btn-callback {
+    width: 185px;
+}
+.top .btn-ciaman {
+    /* display: none; */
+    display: block;
+    height: 40px;
+    text-align: center;
+    font-size: 15px;
+    width: 190px;
+    line-height: 40px;
+    font-weight: 700;
+    cursor: pointer;
+    width: 185px;
+    background: #00b967;
+    float: left;
+}
+.top .btn-ciaman > a {color: #fff;}
+
+.bank-icons {
+float:right;
+margin-right: 15px;
+}
+
+.bank-icons img {
+margin-right: 5px;
+}

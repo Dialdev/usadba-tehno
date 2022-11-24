@@ -1,0 +1,76 @@
+{\rtf1\ansi\deff4\adeflang1025
+{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}{\f1\froman\fprq2\fcharset2 Symbol;}{\f2\fswiss\fprq2\fcharset0 Arial;}{\f3\froman\fprq2\fcharset204 Times New Roman;}{\f4\froman\fprq0\fcharset0 Times New Roman;}{\f5\fswiss\fprq2\fcharset204 Arial;}{\f6\froman\fprq0\fcharset204 Times New Roman;}{\f7\fswiss\fprq0\fcharset204 Arial;}{\f8\froman\fprq2\fcharset128 Times New Roman;}{\f9\froman\fprq0\fcharset204 Times New Roman CYR;}{\f10\fnil\fprq2\fcharset204 Microsoft YaHei;}{\f11\fnil\fprq2\fcharset204 MS Mincho;}{\f12\fnil\fprq2\fcharset204 Mangal;}{\f13\fnil\fprq0\fcharset128 Mangal;}}
+{\colortbl;\red0\green0\blue0;\red255\green255\blue255;\red128\green128\blue128;}
+{\stylesheet{\s0\snext0{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\nowidctlpar\cf0\b\hich\af6\langfe255\dbch\af6\ab\afs24\lang1081\loch\f6\fs20\lang1049 Базовый;}
+{\s15\sbasedon0\snext16{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\sb240\sa120\keepn\cf0\b\hich\af10\langfe255\dbch\af12\ab\loch\f5\fs28\lang1049 Заголовок;}
+{\s16\sbasedon0\snext16{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\sb0\sa120\cf0\b\hich\af6\langfe255\dbch\af6\ab\loch\f6\fs20\lang1049 Основной текст;}
+{\s17\sbasedon16\snext17{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\sb0\sa120\cf0\b\hich\af6\langfe255\dbch\af7\ab\loch\f7\fs20\lang1049 Список;}
+{\s18\sbasedon0\snext18{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\sb120\sa120\cf0\i\b\hich\af6\langfe255\dbch\af13\ai\ab\loch\f6\fs24\lang1049 Название;}
+{\s19\sbasedon0\snext19{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\b\hich\af6\langfe255\dbch\af13\ab\loch\f6\fs20\lang1049 Указатель;}
+{\s20\sbasedon0\snext16{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\sb240\sa120\keepn\cf0\b\hich\af11\langfe255\dbch\af5\ab\loch\f5\fs28\lang1049 Заглавие;}
+{\s21\sbasedon22\snext16\qc{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\sb240\sa120\keepn\cf0\i\b\hich\af11\langfe255\dbch\af5\ai\ab\loch\f5\fs28\lang1049 Подзаголовок;}
+{\s22\sbasedon0\snext16{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\sb240\sa120\keepn\cf0\b\hich\af11\langfe255\dbch\af5\ab\loch\f5\fs28\lang1049 WW-Title;}
+{\s23\sbasedon0\snext23{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\sb120\sa120\cf0\i\b\hich\af6\langfe255\dbch\af7\ai\ab\loch\f7\fs20\lang1049 caption;}
+{\s24\sbasedon0\snext24{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\b\hich\af6\langfe255\dbch\af7\ab\loch\f7\fs20\lang1049 Index;}
+{\s25\sbasedon0\snext16{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\sb240\sa120\keepn\cf0\b\hich\af11\langfe255\dbch\af5\ab\loch\f5\fs28\lang1049 Title;}
+{\s26\sbasedon0\snext26{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\sb120\sa120\cf0\i\b\hich\af6\langfe255\dbch\af7\ai\ab\loch\f7\fs20\lang1049 WW-caption;}
+{\s27\sbasedon0\snext27{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\b\hich\af6\langfe255\dbch\af7\ab\loch\f7\fs20\lang1049 WW-Index;}
+{\s28\sbasedon0\snext16{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\sb240\sa120\keepn\cf0\b\hich\af11\langfe255\dbch\af5\ab\loch\f5\fs28\lang1049 WW-Title1;}
+{\s29\sbasedon0\snext29{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\sb120\sa120\cf0\i\b\hich\af6\langfe255\dbch\af7\ai\ab\loch\f7\fs20\lang1049 WW-caption1;}
+{\s30\sbasedon0\snext30{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\b\hich\af6\langfe255\dbch\af7\ab\loch\f7\fs20\lang1049 WW-Index1;}
+{\s31\sbasedon0\snext31{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\sb120\sa120\cf0\i\b\hich\af6\langfe255\dbch\af7\ai\ab\loch\f7\fs20\lang1049 WW-caption11;}
+{\s32\sbasedon0\snext32{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\b\hich\af6\langfe255\dbch\af7\ab\loch\f7\fs20\lang1049 WW-Index11;}
+{\s33\sbasedon0\snext16{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\sb240\sa120\keepn\cf0\b\hich\af11\langfe255\dbch\af5\ab\loch\f5\fs28\lang1049 WW-Title11;}
+{\s34\sbasedon0\snext34{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\sb120\sa120\cf0\i\b\hich\af6\langfe255\dbch\af7\ai\ab\loch\f7\fs20\lang1049 WW-caption111;}
+{\s35\sbasedon0\snext35{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\b\hich\af6\langfe255\dbch\af7\ab\loch\f7\fs20\lang1049 WW-Index111;}
+}{\info{\creatim\yr0\mo0\dy0\hr0\min0}{\revtim\yr0\mo0\dy0\hr0\min0}{\printim\yr2016\mo6\dy16\hr14\min20}{\comment OpenOffice}{\vern4110}}\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720
+
+{\*\pgdsctbl
+{\pgdsc0\pgdscuse195\pgwsxn11909\pghsxn16834\marglsxn1573\margrsxn3391\margtsxn1440\margbsxn720\pgdscnxt0 Standard;}}
+\formshade{\*\pgdscno0}\paperh16834\paperw11909\margl1573\margr3391\margt1440\margb720\sectd\sbknone\sectunlocked1\pgndec\pgwsxn11909\pghsxn16834\marglsxn1573\margrsxn3391\margtsxn1440\margbsxn720\ftnbj\ftnstart1\ftnrstcont\ftnnar\aenddoc\aftnrstcont\aftnstart1\aftnnrlc
+\pgndec\pard\plain \s0{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\nowidctlpar\cf0\b\hich\af6\langfe255\dbch\af6\ab\afs24\lang1081\loch\f6\fs20\lang1049\sl-320\slmult0\qr\li11\ri0\lin11\rin0\fi0\cbpat2\ltrpar{\cf1\b0\hich\af5\dbch\af5\ab0\rtlch \ltrch\loch\fs28\loch\f8
+}
+\par \pard\plain \s0{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\nowidctlpar\cf0\b\hich\af6\langfe255\dbch\af6\ab\afs24\lang1081\loch\f6\fs20\lang1049\sl-320\slmult0\qr\li11\ri0\lin11\rin0\fi0\cbpat2\ltrpar{\cf1\b0\hich\af5\dbch\af5\ab0\rtlch \ltrch\loch\f5
+ }
+\par \pard\plain \s0{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\nowidctlpar\cf0\b\hich\af6\langfe255\dbch\af6\ab\afs24\lang1081\loch\f6\fs20\lang1049\sl-320\slmult0\qr\li11\ri0\lin11\rin0\fi0\cbpat2\ltrpar{\rtlch \ltrch\loch
+}
+\par \pard\plain \s0{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\nowidctlpar\cf0\b\hich\af6\langfe255\dbch\af6\ab\afs24\lang1081\loch\f6\fs20\lang1049\sl-320\slmult0\li11\ri0\lin11\rin0\fi0\cbpat2\ltrpar{\cf1\dbch\af9\rtlch \ltrch\loch\fs24\loch\f9
+\'c8\'cf \'cf\'e0\'e2\'eb\'ee\'e2 \'c2\'e0\'f1\'e8\'eb\'e8\'e9 \'cc\'e8\'f5\'e0\'e9\'eb\'ee\'e2\'e8\'f7.}
+\par \pard\plain \s0{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\nowidctlpar\cf0\b\hich\af6\langfe255\dbch\af6\ab\afs24\lang1081\loch\f6\fs20\lang1049\qj\ltrpar{\b0\hich\af9\dbch\af9\ab0\rtlch \ltrch\loch\fs24\loch\f9
+\'cf\'e0\'f1\'ef\'ee\'f0\'f2 \'f1\'e5\'f0\'e8\'e8: 27 07, \'b9 123475}
+\par \pard\plain \s0{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\nowidctlpar\cf0\b\hich\af6\langfe255\dbch\af6\ab\afs24\lang1081\loch\f6\fs20\lang1049\qj\ltrpar{\b0\hich\af9\dbch\af9\ab0\rtlch \ltrch\loch\fs24\loch\f9
+\'c2\'fb\'e4\'e0\'ed \'ce\'d3\'d4\'cc\'d1  \'d0\'ee\'f1\'f1\'e8\'e8 \'ef\'ee \'ca\'e0\'eb\'e8\'ed\'e8\'ed\'e3\'f0\'e0\'e4\'f1\'ea\'ee\'e9 \'ee\'e1\'eb. \'cc\'ee\'f1\'ea\'ee\'e2\'f1\'ea\'ee\'e3\'ee \'f0-\'ed\'e0   \'e3. \'ca\'e0\'eb\'e8\'ed\'e8\'ed\'e3\'f0\'e0\'e4\'e0 27.11.2007 \'e3.}
+\par \pard\plain \s0{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\nowidctlpar\cf0\b\hich\af6\langfe255\dbch\af6\ab\afs24\lang1081\loch\f6\fs20\lang1049\qj\ltrpar{\b0\hich\af9\dbch\af9\ab0\rtlch \ltrch\loch\fs24\loch\f9
+\'ce\'c3\'d0\'cd\'c8\'cf \'f1\'e2-\'e2\'ee \'b9310392514100198 \'ee\'f2 21.05.10 \'e3., }
+\par \pard\plain \s0{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\nowidctlpar\cf0\b\hich\af6\langfe255\dbch\af6\ab\afs24\lang1081\loch\f6\fs20\lang1049\qj\ltrpar{\b0\hich\af9\dbch\af9\ab0\rtlch \ltrch\loch\fs24\loch\f9
+\'c8\'cd\'cd 390705008205}
+\par \pard\plain \s0{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\nowidctlpar\cf0\b\hich\af6\langfe255\dbch\af6\ab\afs24\lang1081\loch\f6\fs20\lang1049\qj\ltrpar{\b0\hich\af9\dbch\af9\ab0\rtlch \ltrch\loch\fs24\loch\f9
+\'ce\'ca\'cf\'ce 0061876054}
+\par \pard\plain \s0{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\nowidctlpar\cf0\b\hich\af6\langfe255\dbch\af6\ab\afs24\lang1081\loch\f6\fs20\lang1049\qj\ltrpar{\hich\af9\dbch\af9\rtlch \ltrch\loch\fs24\loch\f9
+\'de\'f0. \'e0\'e4\'f0\'e5\'f1: 238311 \'ca\'e0\'eb\'e8\'ed\'e8\'ed\'e3\'f0\'e0\'e4\'f1\'ea\'e0\'ff \'ee\'e1\'eb., \'c3\'f3\'f0\'fc\'e5\'e2\'f1\'ea\'e8\'e9 \'f0\'e0\'e9\'ee\'ed, \'c1\'ee\'eb\'fc\'f8\'ee\'e5 \'c8\'f1\'e0\'ea\'ee\'e2\'ee, \'d3\'eb. \'cf\'ee\'e1\'e5\'e4\'fb 13.}
+\par \pard\plain \s0{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\nowidctlpar\cf0\b\hich\af6\langfe255\dbch\af6\ab\afs24\lang1081\loch\f6\fs20\lang1049\ltrpar{\dbch\af9\rtlch \ltrch\loch\fs24\loch\f9
+\'d0/\'f1 }{\rtlch \ltrch\loch\fs24\lang1033
+40802810355010000044}
+\par \pard\plain \s0{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\nowidctlpar\cf0\b\hich\af6\langfe255\dbch\af6\ab\afs24\lang1081\loch\f6\fs20\lang1049\qj\ltrpar{\cf1\dbch\af9\rtlch \ltrch\loch\fs24\loch\f9
+\'ca\'e0\'eb\'e8\'ed\'e8\'ed\'e3\'f0\'e0\'e4\'f1\'ea\'e8\'e9}{\cf1\rtlch \ltrch\loch\fs24\lang1033
+ }{\cf1\dbch\af9\rtlch \ltrch\loch\fs24\loch\f9
+\'d0\'d4}{\cf1\rtlch \ltrch\loch\fs24\lang1033
+ }{\cf1\dbch\af9\rtlch \ltrch\loch\fs24\loch\f9
+\'c0\'ce}{\cf1\rtlch \ltrch\loch\fs24\lang1033
+ }{\cf1\dbch\af9\rtlch \ltrch\loch\fs24\loch\f9
+\'ab\'d0\'ee\'f1\'f1\'e5\'eb\'fc\'f5\'ee\'e7\'e1\'e0\'ed\'ea\'bb}
+\par \pard\plain \s0{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\nowidctlpar\cf0\b\hich\af6\langfe255\dbch\af6\ab\afs24\lang1081\loch\f6\fs20\lang1049\qj\ltrpar{\cf1\dbch\af9\rtlch \ltrch\loch\fs24\loch\f9
+\'ca}{\cf1\rtlch \ltrch\loch\fs24\lang1033
+/}{\cf1\dbch\af9\rtlch \ltrch\loch\fs24\loch\f9
+\'f1}{\cf1\rtlch \ltrch\loch\fs24\lang1033
+ 30101810500000000878}
+\par \pard\plain \s0{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\nowidctlpar\cf0\b\hich\af6\langfe255\dbch\af6\ab\afs24\lang1081\loch\f6\fs20\lang1049\qj\ltrpar{\cf1\dbch\af9\rtlch \ltrch\loch\fs24\loch\f9
+\'c1\'c8\'ca}{\cf1\rtlch \ltrch\loch\fs24\lang1033
+ 042748878}
+\par \pard\plain \s0{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\nowidctlpar\cf0\b\hich\af6\langfe255\dbch\af6\ab\afs24\lang1081\loch\f6\fs20\lang1049\qj\ltrpar{\cf1\rtlch \ltrch\loch\fs24\lang1033
+\'cc\'ee\'e1. \'d2\'e5\'eb\'e5\'f4\'ee\'ed 89114611366}
+\par \pard\plain \s0{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\nowidctlpar\cf0\b\hich\af6\langfe255\dbch\af6\ab\afs24\lang1081\loch\f6\fs20\lang1049\qj\ltrpar{\rtlch \ltrch\loch
+}
+\par \pard\plain \s0{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\nowidctlpar\cf0\b\hich\af6\langfe255\dbch\af6\ab\afs24\lang1081\loch\f6\fs20\lang1049\qj\ltrpar{\cf1\rtlch \ltrch\loch\fs24
+}
+\par }

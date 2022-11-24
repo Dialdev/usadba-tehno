@@ -1,0 +1,108 @@
+Date:Fri, 21 Sep 2018 13:53:28 +0300
+Array
+(
+    [0] => Start
+    [1] => Step DiscountCatalogMigratorrun
+    [2] => 
+)
+
+
+Date:Fri, 21 Sep 2018 13:53:28 +0300
+Array
+(
+    [0] => Start
+    [1] => Step DiscountCatalogMigratormoveDiscounts
+    [2] => 
+)
+
+
+Date:Fri, 21 Sep 2018 13:53:30 +0300
+Array
+(
+    [0] => finished
+    [1] => Step DiscountCatalogMigratormoveDiscounts
+    [2] => 
+)
+
+
+Date:Fri, 21 Sep 2018 13:53:30 +0300
+Array
+(
+    [0] => Start
+    [1] => Step DiscountCatalogMigratormoveCumulativeDiscounts
+    [2] => 
+)
+
+
+Date:Fri, 21 Sep 2018 13:53:30 +0300
+Array
+(
+    [0] => Start
+    [1] => Step DiscountCatalogMigratorrecalculatePriorityForCumulativeDiscounts
+    [2] => 
+)
+
+
+Date:Fri, 21 Sep 2018 13:53:30 +0300
+Array
+(
+    [0] => finished
+    [1] => Step DiscountCatalogMigratorrecalculatePriorityForCumulativeDiscounts
+    [2] => 
+)
+
+
+Date:Fri, 21 Sep 2018 13:53:30 +0300
+Array
+(
+    [0] => finished
+    [1] => Step DiscountCatalogMigratormoveCumulativeDiscounts
+    [2] => 
+)
+
+
+Date:Fri, 21 Sep 2018 13:53:30 +0300
+Array
+(
+    [0] => Start
+    [1] => Step DiscountCatalogMigratormoveCoupons
+    [2] => 
+)
+
+
+Date:Fri, 21 Sep 2018 13:53:30 +0300
+Array
+(
+    [0] => finished
+    [1] => Step DiscountCatalogMigratormoveCoupons
+    [2] => 
+)
+
+
+Date:Fri, 21 Sep 2018 13:53:30 +0300
+Array
+(
+    [0] => Start
+    [1] => Step DiscountCatalogMigratorfillShortDescription
+    [2] => 
+)
+
+
+Date:Fri, 21 Sep 2018 13:53:30 +0300
+Array
+(
+    [0] => finished
+    [1] => Step DiscountCatalogMigratorfillShortDescription
+    [2] => 
+)
+
+
+Date:Fri, 21 Sep 2018 13:53:30 +0300
+Array
+(
+    [0] => finished
+    [1] => Step DiscountCatalogMigratorrun
+    [2] => 
+)
+
+

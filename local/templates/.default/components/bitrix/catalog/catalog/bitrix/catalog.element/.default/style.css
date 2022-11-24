@@ -1,0 +1,270 @@
+.product-images{
+	float: left;
+	height: 450px;
+	width: 630px;
+	overflow: hidden;
+}
+.product-images__main{
+	float: left;
+	width: 500px;
+	height: 391px;
+	line-height: 390px;
+	text-align: center;
+	border: 1px solid #d6d6d6;
+}
+.product-images__image{
+	max-width: 500px;
+	max-height: 390px;
+}
+
+
+.product-images__list{
+	float: left;
+    margin: 0 0 0 5px;
+    padding: 0;
+    list-style: none;
+    width: 120px;
+    text-align: center;
+}
+.product-images__item{
+	margin-bottom: 3px;
+    width: 120px;
+    height: 94px;
+    overflow: hidden;
+    border: 1px solid #d6d6d6;
+    cursor: pointer;
+}
+
+.product-images__item img{
+	max-width: 120px;
+	max-height: 94px;
+} 
+
+.product-images__item_active{
+	border-color: #15C174;
+}
+
+.info {
+    float: right;
+    font-size: 14px;
+    color: #1d282a;
+    width: 250px;
+}
+
+@media (max-width: 1200px) {
+.info {
+    float: left;
+}
+}
+
+.info .price{
+	float: right;
+}
+
+.info .price b{
+	font-size: 28px;
+	color: #fc0702;
+} 
+
+.info .icon {
+	float: left;
+	width: 100%;
+	text-transform: uppercase;
+	color: #212121;
+	margin: 20px 0 0;
+}
+
+.catalog-detail-icon-span {
+	display: block;
+	height: 25px;
+	line-height: 25px;
+	padding-left: 30px;
+	margin: 20px 0;
+}
+
+.catalog-detail-icon-span.icon-1 {background: url(ic-1.png) 0 0 no-repeat;}
+.catalog-detail-icon-span.icon-2 {background: url(ic-2.png) 0 0 no-repeat;}
+
+.btn-buy {
+	width: 227px;
+	height: 46px;
+	line-height: 46px;
+	padding-left: 20px;
+	color: #fff;
+	text-transform: uppercase;
+	display: block;
+	clear: both;
+	cursor: pointer;
+	font-size: 15px;
+	background: #fc1e1a url(ic-3.png) right center no-repeat;
+	margin-top: 15px;
+	position: relative;
+	text-decoration: none;
+}
+
+.btn-buy:after {
+	content: "";
+	border-width: 23px;
+	border-style: solid;
+	border-color: transparent transparent  transparent #fc1e1a;
+	position: absolute;
+	right: -46px;
+	top: 0;
+}
+
+
+.item_btns {
+	clear: both;
+	margin-top: 40px;
+	float: left;
+	width: 100%;
+}
+
+.item_btns .tab_btn {
+	display: block;
+	float: left;
+	width: 33%;
+	height: 45px;
+	line-height: 45px;
+	text-align: center;
+	font-size: 18px;
+	color: #212121;
+	cursor: pointer;
+	background: #EDECEC;
+}
+
+.item_btns .tab_btn.active {
+    background: #fff;
+    color: #52c689;
+}
+
+.item_tabs {
+	clear: both;
+	float: left;
+	margin-bottom: 50px;
+	width: 100%;
+}
+
+.bx_rb.tab {
+	width: 100%;
+	padding: 30px 0;
+	display: none;
+	background: #fff;
+}
+
+.similar {clear: both;}
+
+.props table {
+	width: 60%;
+}
+
+.props table td{
+	padding: 10px;
+}
+
+.props table tr:nth-child(2n+1) td{
+	background: #EDECEC;
+}
+
+.info span.quantity-no, .info span.quantity-yes {
+	font-size: 16px;
+	margin-top: 10px;
+}
+.zooming {
+	position:relative;display:block;
+}
+.btn-delivery {
+	font-size: 16px;
+	text-decoration: none;
+	display:block;
+	width:130px;
+	margin: 10px 0;
+	color: #1d282a;
+	text-align: center;
+	line-height: 20px;
+	cursor:pointer;
+	border-bottom:1px #1d282a dashed;
+}
+.btn-delivery:hover {
+	text-decoration: none;
+}
+.popup.popup_delivery {
+	width: 60%;
+	top: 47%;
+	margin-left: 0%;
+	height: 759px;
+	/*overflow-y: auto;*/
+}
+
+@media screen and (max-width: 768px) {
+	.popup.popup_delivery {
+		width: 68%;
+		top: 51%;
+		margin-left: 50%;
+		left: 0%;
+	}
+
+	.popup__textinner {
+		max-height: 100%;
+		overflow-y: scroll;
+	}
+}
+
+
+.product__control {
+	text-decoration: none;
+	color: black;
+	font-size: 18px;
+	font-weight: bold;
+	display: inline-block;
+	width: 26px;
+	height: 26px;
+	line-height: 29px;
+	background: #EDECEC;
+	border-radius: 20px;
+	text-align:center;
+	cursor: pointer;
+}
+.product__input {
+	background: #fff;
+	width: 40px;
+	padding: 7px 5px;
+	text-align: center;
+	border: none;
+	font-size: 18px;
+	font-weight: bold;
+}
+.product__count {
+	width: 110px;
+	clear: both;
+}
+a#pos-credit-link {
+    width: 200px;
+    font-size: 13px;
+    height: 46px;
+    line-height: 46px;
+    padding-left: 20px;
+    color: #fff;
+    text-transform: uppercase;
+    display: block;
+    clear: both;
+    cursor: pointer;
+    margin-top: 15px;
+    position: relative;
+    text-decoration: none;
+    background: #15c174 url(/local/templates/.default/components/bitrix/catalog/catalog/bitrix/catalog.element/.default/ic-5.png) left 5% center no-repeat;
+    border: none;
+    text-align:  center;
+}
+.sps {
+    display:  none;
+}
+a.back_to_section {
+    font-size: 18px;
+    text-decoration: none;
+    display: block;
+    width: 160px;
+    margin: 24px 0 0 0;
+    cursor: pointer;
+    border-bottom: 1px #1d282a dashed;
+}

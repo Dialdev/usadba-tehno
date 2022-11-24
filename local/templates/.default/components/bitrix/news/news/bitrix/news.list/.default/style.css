@@ -1,0 +1,39 @@
+.news-list {
+	width: 100%;
+	float: left;
+}
+
+.news-list  .news-item {
+	float: left;
+	width: 364px;
+	padding: 20px 0;
+	margin: 0 0 30px 50px;
+	border: 1px solid #edecec;
+	border-bottom: 8px solid #edecec;
+	transition: 0.3s;
+}
+
+.news-list  .news-item:nth-child(3n+1) {
+	margin: 0 0 30px;
+}
+
+.news-item .image{ 
+	width: 365px;
+	height: 160px;
+	margin-bottom: 10px;
+	text-align: center;
+}
+
+
+.news-item .image img{
+	max-width: 320px;
+	max-height: 160px;
+
+} 
+
+.news-list  .news-item:hover {
+	border: 1px solid #15c174;
+	border-bottom: 8px solid #15c174;
+}
+
+

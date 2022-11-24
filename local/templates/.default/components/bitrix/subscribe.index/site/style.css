@@ -1,0 +1,54 @@
+.subscribe-index {
+	padding: 30px 20px;
+    border: 1px solid #d9d9d9;
+    width: 1160px;
+}
+
+.rubrics {
+    float: left;
+    width: 100%;
+    margin-bottom: 30px;
+}
+
+.checkbox_input {
+    display: none;
+}
+
+.rubrics label {
+    display: block;
+    padding-left: 25px;
+    font-size: 16px;
+    float: left;
+    height: 16px;
+    margin-right: 100px;
+    margin-bottom: 5px;
+    background: url(checkbox.png) no-repeat;
+    cursor: pointer;
+}
+
+.rubrics input:checked + label {
+    background-position: 0 -16px;
+}
+
+.subscribe-index .form__text {
+	width: 340px;
+	float: left;
+	margin-right: 20px;
+}
+
+.subscribe-index  .form__submit {
+    float: left;
+    padding: 0 20px;
+    height: 40px;
+    color: #fff;
+    line-height: 40px;
+    text-decoration: none;
+    text-transform: uppercase;
+    border: none;
+    
+    background: #00B967;
+}
+
+.subscribe-index .form__submit:hover{
+    background: #E80000;
+}

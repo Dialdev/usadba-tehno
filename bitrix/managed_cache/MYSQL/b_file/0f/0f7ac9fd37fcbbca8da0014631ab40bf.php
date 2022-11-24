@@ -1,0 +1,7 @@
+<?
+if($INCLUDE_FROM_CACHE!='Y')return false;
+$datecreate = '001669093942';
+$dateexpire = '001669097542';
+$ser_content = 'a:2:{s:7:"CONTENT";s:0:"";s:4:"VARS";a:2:{i:3191;a:14:{s:2:"ID";s:4:"3191";s:11:"TIMESTAMP_X";O:25:"Bitrix\\Main\\Type\\DateTime":1:{s:8:"'.chr(0).'*'.chr(0).'value";O:8:"DateTime":3:{s:4:"date";s:26:"2017-05-20 06:25:03.000000";s:13:"timezone_type";i:3;s:8:"timezone";s:13:"Europe/Moscow";}}s:9:"MODULE_ID";s:6:"iblock";s:6:"HEIGHT";s:4:"2322";s:5:"WIDTH";s:4:"1646";s:9:"FILE_SIZE";s:6:"543068";s:12:"CONTENT_TYPE";s:10:"image/jpeg";s:6:"SUBDIR";s:10:"iblock/0db";s:9:"FILE_NAME";s:36:"0db02f5fcf64ae410692d848c2f19796.jpg";s:13:"ORIGINAL_NAME";s:16:"Тарпан.jpg";s:11:"DESCRIPTION";s:0:"";s:10:"HANDLER_ID";N;s:11:"EXTERNAL_ID";s:32:"53637d24c5ff84675241adcc2ab302b2";s:4:"~src";b:0;}i:3192;a:14:{s:2:"ID";s:4:"3192";s:11:"TIMESTAMP_X";O:25:"Bitrix\\Main\\Type\\DateTime":1:{s:8:"'.chr(0).'*'.chr(0).'value";O:8:"DateTime":3:{s:4:"date";s:26:"2017-06-08 06:04:03.000000";s:13:"timezone_type";i:3;s:8:"timezone";s:13:"Europe/Moscow";}}s:9:"MODULE_ID";s:4:"sale";s:6:"HEIGHT";s:2:"82";s:5:"WIDTH";s:3:"127";s:9:"FILE_SIZE";s:4:"3063";s:12:"CONTENT_TYPE";s:9:"image/png";s:6:"SUBDIR";s:26:"sale/paysystem/logotip/65a";s:9:"FILE_NAME";s:36:"65a59f53ddb1e2a6f552db8d96272d7c.png";s:13:"ORIGINAL_NAME";s:15:"footer-logo.png";s:11:"DESCRIPTION";s:0:"";s:10:"HANDLER_ID";N;s:11:"EXTERNAL_ID";s:32:"96890f2cb4368a5d45805ef92f9da6c1";s:4:"~src";b:0;}}}';
+return true;
+?>

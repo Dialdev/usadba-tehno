@@ -1,0 +1,11 @@
+.news-item .image img {
+    max-width: 325px;
+    max-height: 380px;
+}
+.news-item .image{
+overflow:hidden;
+}
+
+.shop_ {
+ 
+	width: 49% !important;}

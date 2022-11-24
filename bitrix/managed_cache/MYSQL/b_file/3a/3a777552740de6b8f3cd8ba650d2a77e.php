@@ -1,0 +1,7 @@
+<?
+if($INCLUDE_FROM_CACHE!='Y')return false;
+$datecreate = '001669074273';
+$dateexpire = '001669077873';
+$ser_content = 'a:2:{s:7:"CONTENT";s:0:"";s:4:"VARS";a:2:{i:1171;a:14:{s:2:"ID";s:4:"1171";s:11:"TIMESTAMP_X";O:25:"Bitrix\\Main\\Type\\DateTime":1:{s:8:"'.chr(0).'*'.chr(0).'value";O:8:"DateTime":3:{s:4:"date";s:26:"2019-04-18 17:24:35.000000";s:13:"timezone_type";i:3;s:8:"timezone";s:13:"Europe/Moscow";}}s:9:"MODULE_ID";s:6:"iblock";s:6:"HEIGHT";s:3:"170";s:5:"WIDTH";s:3:"178";s:9:"FILE_SIZE";s:5:"40992";s:12:"CONTENT_TYPE";s:10:"image/jpeg";s:6:"SUBDIR";s:10:"iblock/125";s:9:"FILE_NAME";s:36:"125c704fe4537157d3fca4238b721e31.jpg";s:13:"ORIGINAL_NAME";s:51:"снегоуборщики бензиновые.jpg";s:11:"DESCRIPTION";s:0:"";s:10:"HANDLER_ID";N;s:11:"EXTERNAL_ID";s:32:"2cd7f5d3dadaacea783e2faa8d3f3447";s:4:"~src";b:0;}i:1174;a:14:{s:2:"ID";s:4:"1174";s:11:"TIMESTAMP_X";O:25:"Bitrix\\Main\\Type\\DateTime":1:{s:8:"'.chr(0).'*'.chr(0).'value";O:8:"DateTime":3:{s:4:"date";s:26:"2019-04-18 17:11:19.000000";s:13:"timezone_type";i:3;s:8:"timezone";s:13:"Europe/Moscow";}}s:9:"MODULE_ID";s:6:"iblock";s:6:"HEIGHT";s:3:"173";s:5:"WIDTH";s:3:"169";s:9:"FILE_SIZE";s:5:"39931";s:12:"CONTENT_TYPE";s:10:"image/jpeg";s:6:"SUBDIR";s:10:"iblock/0c5";s:9:"FILE_NAME";s:36:"0c59bf6baac81bbd2a32bb89ff3b434d.jpg";s:13:"ORIGINAL_NAME";s:12:"champion.jpg";s:11:"DESCRIPTION";s:0:"";s:10:"HANDLER_ID";N;s:11:"EXTERNAL_ID";s:32:"243f7cd421dc1c657a0a062da3a52eeb";s:4:"~src";b:0;}}}';
+return true;
+?>

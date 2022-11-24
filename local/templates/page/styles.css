@@ -1,0 +1,16 @@
+<!-- custom start 24.12.20 -->
+
+
+.top li a:hover, .top li span:hover{
+    text-decoration: underline;
+}
+.btn-callback:hover{
+text-decoration: underline;
+}
+
+.auth:hover{
+    text-decoration: underline;
+}
+
+
+<!-- custom end 24.12.20 -->

@@ -1,0 +1,37 @@
+.cabinet-menu{
+	display: table;
+	margin: 0 0 20px;
+	padding: 0;
+	width: 100%;
+	list-style: none;
+}
+.cabinet-menu__item{
+	display: table-cell;
+	width: 25%;
+	text-align: center;
+}
+.cabinet-menu__link{
+	position: relative;
+	display: block;
+	color: #606060;
+	font-size: 20px;
+	line-height: 40px;
+	font-weight: bold;
+	text-decoration: none;
+}
+.cabinet-menu__link_selected{
+	color: #fff;
+	background: #e80000;
+}
+.cabinet-menu__link_selected:after{
+	content: "";
+	position: absolute;
+	top: 39px;
+	left: 50%;
+	margin-left: -11px;
+	display: block;
+	border-width: 9px 11px 0 11px;
+	border-style: solid;
+	border-color: #e80000 transparent transparent transparent;
+	z-index: 10;
+}

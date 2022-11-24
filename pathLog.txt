@@ -1,0 +1,1 @@
+/var/www/u0128361/data/www/usatba-texno.ru/bitrix/modules/sale/install/components/bitrix/sale.personal.order/templates/.default/bitrix//var/www/u0128361/data/www/usatba-texno.ru/bitrix/components/bitrix/sale.personal.order/templates/.default/bitrix/

@@ -1,0 +1,117 @@
+#php_value opcache.revalidate_freq 0
+php_value max_input_vars 10000
+Options -Indexes 
+ErrorDocument 404 /404.php
+
+RewriteBase /
+RewriteEngine On
+
+#RewriteCond %{HTTP_USER_AGENT} ^.*(AhrefsBot|SemrushBot|dotbot|SearchBot|MJ12bot|Gecko\/20100101).* [NC]
+#RewriteRule .* - [F,L]
+RewriteCond %{HTTP_USER_AGENT} (SemrushBot|MJ12bot|AhrefsBot|bingbot|DotBot|LinkpadBot|SputnikBot|statdom.ru|MegaIndex.ru|WebDataStats|Jooblebot|Baiduspider|BackupLand|NetcraftSurveyAgent|openstat.ru) [NC]
+RewriteRule .* - [F,L]
+
+RewriteCond %{SERVER_PORT} !^443$
+RewriteRule .* https://%{SERVER_NAME}%{REQUEST_URI} [R=301,L]
+RewriteRule ^(.*)index\.php$ $1 [R=301,L]
+RewriteCond %{HTTP_HOST} ^usatba-texno\.ru$ [NC]
+RewriteRule ^(.*)$ http://www.usatba-texno.ru/$1 [R=301,L]
+
+RewriteCond %{REQUEST_URI} !\?
+RewriteCond %{REQUEST_URI} !\&
+RewriteCond %{REQUEST_URI} !\=
+RewriteCond %{REQUEST_URI} !\.
+RewriteCond %{REQUEST_URI} !\/$
+RewriteRule ^(.*[^\/])$ /$1/ [R=301,L]
+
+RewriteCond %{THE_REQUEST} //
+RewriteRule .* /$0 [R=301,L]
+
+<IfModule mod_php5.c>
+	php_flag allow_call_time_pass_reference 1
+	php_flag session.use_trans_sid off
+	
+
+	#php_value display_errors 1
+
+	#php_value mbstring.internal_encoding UTF-8
+</IfModule>
+
+<IfModule mod_dir.c>
+  DirectoryIndex index.php index.html
+</IfModule>
+
+<IfModule mod_expires.c>
+  ExpiresActive on
+  ExpiresByType image/jpeg "access plus 3 day"
+  ExpiresByType image/gif "access plus 3 day"
+</IfModule>
+
+<IfModule mod_rewrite.c>
+RewriteRule ^sitemap\.xml$ sitemap\.php [L]
+Options +FollowSymLinks
+RewriteEngine On
+RewriteCond %{HTTP_HOST} ^usatba-texno.ru$ [NC]
+RewriteRule ^(.*)$ http://www.usatba-texno.ru/$1 [R=301,L]
+</IfModule>
+
+<IfModule mod_rewrite.c>
+	Options +FollowSymLinks
+	RewriteEngine On
+	RewriteCond %{REQUEST_FILENAME} !-f
+	RewriteCond %{REQUEST_FILENAME} !-l
+	RewriteCond %{REQUEST_FILENAME} !-d
+	RewriteCond %{REQUEST_FILENAME} !/bitrix/urlrewrite.php$
+	RewriteRule ^(.*)$ /bitrix/urlrewrite.php [L]
+	RewriteRule .* - [E=REMOTE_USER:%{HTTP:Authorization}]
+  
+  
+RewriteCond %{REQUEST_URI} !\?
+RewriteCond %{REQUEST_URI} !\&
+RewriteCond %{REQUEST_URI} !\=
+RewriteCond %{REQUEST_URI} !\.
+RewriteCond %{REQUEST_URI} !\/$
+RewriteCond %{HTTP_HOST} ^www\.(.*)$
+RewriteRule ^(.*)$ https://www.%1/$1/ [L,R=301]
+ 
+RewriteCond %{REQUEST_URI} !\?
+RewriteCond %{REQUEST_URI} !\&
+RewriteCond %{REQUEST_URI} !\=
+RewriteCond %{REQUEST_URI} !\.
+RewriteCond %{REQUEST_URI} !\/$
+RewriteCond %{HTTP_HOST} ^([^www].*)$
+RewriteRule ^(.*)$ https://www.%1/$1/ [L,R=301]
+ 
+RewriteCond %{REQUEST_URI} !\?
+RewriteCond %{REQUEST_URI} !\&
+RewriteCond %{REQUEST_URI} !\=
+RewriteCond %{REQUEST_URI} !\.
+RewriteCond %{REQUEST_URI} ![^\/]$
+RewriteCond %{HTTP_HOST} ^([^www].*)$
+RewriteRule ^(.*)$ https://www.%1/$1 [L,R=301]
+  
+  
+  Redirect 301 /produkt/lawn_mower.html https://www.usatba-texno.ru/catalog/gazonokosilki/
+  Redirect 301 /produkt/motokult.html https://www.usatba-texno.ru/catalog/kultivatory/motokultivatory/
+  Redirect 301 /produkt/motokult/neva.html https://www.usatba-texno.ru/catalog/kultivatory/motokultivatory/neva/
+  Redirect 301 /produkt/motokult/tarpan.html https://www.usatba-texno.ru/catalog/kultivatory/motokultivatory/tarpan/
+  Redirect 301 /produkt/motokult/motokultivatoryi-viking.html https://www.usatba-texno.ru/catalog/kultivatory/motokultivatory/viking/
+  Redirect 301 /produkt/kvad.html https://www.usatba-texno.ru/catalog/kvadrotsikly/
+  Redirect 301 /produkt/moped.html https://www.usatba-texno.ru/catalog/mopedy/
+  Redirect 301 /produkt/motobloki.html https://www.usatba-texno.ru/catalog/motobloki/
+  Redirect 301 /produkt/outboard_motors.html https://www.usatba-texno.ru/catalog/skutery/
+  Redirect 301 /produkt/skuterbaik.html https://www.usatba-texno.ru/catalog/mototsikly/
+  Redirect 301 /produkt/showchar.html https://www.usatba-texno.ru/catalog/snegouborshchiki/
+  Redirect 301 /produkt/moped/mopedi-alpha.html https://www.usatba-texno.ru/catalog/mopedy/motoland/moped_alfa_motoland_rx/
+  Redirect 301 /produkt/moped/moped-delta.html https://www.usatba-texno.ru/catalog/mopedy/motoland/moped_delta_motoland/
+  Redirect 301 /produkt/benzokosi.html https://www.usatba-texno.ru/catalog/trimmery/
+  Redirect 301 /produkt/benzopili.html https://www.usatba-texno.ru/catalog/motopily/benzopily/
+  Redirect 301 /produkt/benzopili/benzopilyi-echo.html https://www.usatba-texno.ru/catalog/motopily/benzopily/echo/
+  Redirect 301 /produkt/benzopili/benzopilyi-stihl.html https://www.usatba-texno.ru/catalog/motopily/benzopily/stihl/
+  Redirect 301 /produkt/elektropili.html https://www.usatba-texno.ru/catalog/motopily/elektropily/
+  Redirect 301 /produkt/lawn_mower/gazonokosilki-benzinovyie.html https://www.usatba-texno.ru/catalog/gazonokosilki/benzinovye_gazonokosilki/
+  Redirect 301 /produkt/lawn_mower/gazonokosilki-elektricheskie.html https://www.usatba-texno.ru/catalog/gazonokosilki/elektricheskie_gazonokosilki/
+  Redirect 301 /produkt/velogibrid.html https://www.usatba-texno.ru/catalog/akkumulyatornaya_tekhnika_1/velogibridy/
+
+  
+</IfModule>

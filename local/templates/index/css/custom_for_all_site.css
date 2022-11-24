@@ -1,0 +1,30 @@
+.top li a:hover, .top li span:hover{
+    text-decoration: underline;
+}
+.btn-callback:hover{
+text-decoration: underline;
+}
+
+.auth:hover{
+    text-decoration: underline;
+}
+
+.top .btn-callback {
+    width: 185px;
+    float: left;
+}
+.top .btn-ciaman {
+    /* display: none; */
+    display: block;
+    height: 40px;
+    text-align: center;
+    font-size: 15px;
+    width: 190px;
+    line-height: 40px;
+    font-weight: 700;
+    cursor: pointer;
+    width: 185px;
+    background: #00b967;
+    float: left;
+}
+.top .btn-ciaman > a {color: #fff;}

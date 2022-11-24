@@ -1,0 +1,18 @@
+<!-- custom start 24.12.20 -->
+.news-1 .image img{
+    
+    width: 80%;
+    margin-left: 5%;
+
+	height: auto;
+    //max-height: 252px;
+    object-fit: contain;
+}
+.index-info {
+    margin-top: 45px;
+}
+
+
+
+
+<!-- custom end 24.12.20 -->

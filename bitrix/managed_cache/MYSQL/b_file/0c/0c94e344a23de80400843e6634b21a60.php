@@ -1,0 +1,7 @@
+<?
+if($INCLUDE_FROM_CACHE!='Y')return false;
+$datecreate = '001669096487';
+$dateexpire = '001669100087';
+$ser_content = 'a:2:{s:7:"CONTENT";s:0:"";s:4:"VARS";a:2:{i:3361;a:14:{s:2:"ID";s:4:"3361";s:11:"TIMESTAMP_X";O:25:"Bitrix\\Main\\Type\\DateTime":1:{s:8:"'.chr(0).'*'.chr(0).'value";O:8:"DateTime":3:{s:4:"date";s:26:"2021-06-10 15:54:27.000000";s:13:"timezone_type";i:3;s:8:"timezone";s:13:"Europe/Moscow";}}s:9:"MODULE_ID";s:6:"iblock";s:6:"HEIGHT";s:3:"500";s:5:"WIDTH";s:3:"500";s:9:"FILE_SIZE";s:5:"57082";s:12:"CONTENT_TYPE";s:10:"image/jpeg";s:6:"SUBDIR";s:10:"iblock/89f";s:9:"FILE_NAME";s:36:"89f62d3c5a7ebb0689f8ba7f87584184.jpg";s:13:"ORIGINAL_NAME";s:15:"Pubert_Nano.jpg";s:11:"DESCRIPTION";s:0:"";s:10:"HANDLER_ID";N;s:11:"EXTERNAL_ID";s:32:"6b8437e3d1a9b41e4a89928339f4890c";s:4:"~src";b:0;}i:3362;a:14:{s:2:"ID";s:4:"3362";s:11:"TIMESTAMP_X";O:25:"Bitrix\\Main\\Type\\DateTime":1:{s:8:"'.chr(0).'*'.chr(0).'value";O:8:"DateTime":3:{s:4:"date";s:26:"2022-08-23 13:48:21.000000";s:13:"timezone_type";i:3;s:8:"timezone";s:13:"Europe/Moscow";}}s:9:"MODULE_ID";s:6:"iblock";s:6:"HEIGHT";s:3:"175";s:5:"WIDTH";s:3:"175";s:9:"FILE_SIZE";s:5:"13129";s:12:"CONTENT_TYPE";s:10:"image/jpeg";s:6:"SUBDIR";s:10:"iblock/714";s:9:"FILE_NAME";s:36:"7145c81c6adf11f72b5a0867024781bb.jpg";s:13:"ORIGINAL_NAME";s:19:"prinadlezhnosti.jpg";s:11:"DESCRIPTION";s:0:"";s:10:"HANDLER_ID";N;s:11:"EXTERNAL_ID";s:32:"48c620a88310fe61492e77f672fdb6d3";s:4:"~src";b:0;}}}';
+return true;
+?>
